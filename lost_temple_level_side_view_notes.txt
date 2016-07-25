@@ -1,0 +1,17 @@
+Level 1 connections to:
+  -1/0     : 67 (natural chimney to other cliff face,
+                 barely a large human wide)
+  2nd level: 77 steep stairs
+             74 ( chimney about 5 foot wide with carved handholds)
+  3rd level: 63-64 (10 feet wide stairs)
+  4th level: 26-32 (30 foot wide staircase)
+  6th level: 50-53 (15 foot wide cliff face)
+
+
+Level 2 connections to:
+  1st level:  9-10 ( 5 foot wide stair case)
+              68-70 ( 10 foot wide spiral stair case)
+  3rd level:  25 ( 5 foot wide spiral staircase)
+              56-60 (5 foot wide stair case
+  8th level: 66-72 ( 30 foot wide spiral staircase with solid
+                     10 foot wide cylinder core)

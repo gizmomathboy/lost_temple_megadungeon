@@ -1,0 +1,106 @@
+Lost Temple
+
+01-courtyard
+02-stairs
+03-Entrance Archway
+04-Main temple floor/room
+05-confessionary
+06-Priest room
+07-Alcove
+08-Robes
+09-Body prep (for burial/entombment)
+10-Hallway - Frescos/reliefs of people walking
+11-Viewing crypt entrance
+12-trap - tripwire save vs breath/avoidance for d4 arrows
+     offerings to the afterlife
+13- words to the dead inscribe on wall
+14-Ossuary
+     Stirges (up to 12)
+       hp:8,9,8,7,6,3,5,6,,7,4,3,6
+       assh: mv: 10(60), HD 1, +2 on initial attack, 1d4 damage per round
+             ac:7, morale: 8, XP 19
+             treasure: 300gp, 
+                       5 pcs jewelry (200gp;1,000gp;100gp;100gp;500gp)
+15-stone caskets: empty
+16-carrion crawler
+  assh: 9 giant black centipedes
+        hp: 2,1,2,3,4,1,1,4,2
+        mv:20, HD:1/2 ac:9, morale:7, xp: 25
+        treasure: none
+17-carrion
+18-violet fungus
+     assh: mv:10, ac:7, 3attacks, 1d4 (save vs poison or rots unless
+           cure diseas in 1 turn, a painful death)
+           hd: 3, hp: 16, xp: 101
+           treasure: none
+19-
+20-owlbears
+21-barred door
+     stairs down to level 3
+     magic mouth: 
+      "Deeper and deeper searched, the more arcane the knowledge perched."
+22-alcoves with undead skeletons
+23-wights
+24-ghouls
+25-ghasts
+26-piercers
+27-vampire
+28-skeleton warrior
+29-fire beetle nest (present but might be wandering monster)
+30-ochre jelly
+31-rot grubs
+32-roper
+33-grey ooze
+34-ogres
+35-goblins
+36-goblins
+37-mimic, chimney down to 2nd level, changing to circular staircase
+38-giant black centipedes
+39-stuck door
+40-
+41-6 orcs, barred door, spy hole in door
+42-6 orcs
+43-6 orcs and orc lt, secret door unknown to orcs
+44-stairs down to level 2
+45-6 firedrakes
+46-orc captain
+   Broken Bones Tribe
+   Loot:
+     AS&SH
+     16 ep
+      2 gp
+
+      1)  10 gp gem
+      2)  10 gp gem
+      3)  10 gp gem
+      4)  10 gp gem
+      5)  50 gp gem
+      6)  50 gp gem
+      7)  50 gp gem
+      8)  50 gp gem
+      9) 100 gp gem
+     10) 100 gp gem
+     11) 100 gp gem
+     12) 100 gp gem
+     13) 500 gp gem
+     14) 500 gp gem
+        (1640 gp worth, 1,400 gp after fees)
+     
+     Potion of Fire Resistance
+     Potion of Water Breathing
+     Poison
+
+     D&D
+       4,000 SP
+       30 gems
+       4 potions
+       1 lute with no strings
+
+47- chimney leading down from cliff face into this room
+48- trapped chest. poison dart d12 damage save vs half
+    has 2 potions healing, 2 50gp gems, and a piece of
+    the magic door on level 4
+      piece is tetris like
+49- to level 4
+50- bare room
+51- to level 6, cliff face

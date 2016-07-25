@@ -1,0 +1,37 @@
+ 1-down to 3rd level  
+ 2-treasure has a penrose tile
+ 3-treasure has a penrose tile
+ 4-lounging bugbear
+ 5-kobold vassals of bugbear
+ 6-kobold vassals of bugbear
+ 7-kobold vassals of bugbear
+ 8-kobold vassals of bugbear
+ 9-
+10-
+11-accessed only by teleporter in 13
+12-
+13-teleporter to 11
+14-broken bits of wood
+15-goblin watchers of room 14, secret rooms lead to
+   viewing areas. Door into room is barred and has a spy hole
+16-human bandits
+17-loots of loot
+18-orcs
+19-orcs
+20-orcs
+21-temple, columns hide temple relics, dais has god
+22-food storage for bandits and goblins
+23-
+24-
+25-
+26-
+27-
+28-
+29-
+30-
+31-
+32-
+33-
+34-
+35-
+36-
