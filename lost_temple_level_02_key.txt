@@ -33,19 +33,63 @@
 26- series of columns. bears fragments of similar writing/images as 25. If a detect magic is
     cast there is some residual magic, possible divine.
 27- 1e Ogre magi, 2. Extracting a toll for anyone trying to get to level 3 via room 29
-      6K gp, 12 gems,10 jewelry, 7 potions
+      6K gp, 
+      12 gems,
+        10gp
+        50gp
+        100gp
+        10gp
+        500gp
+        10gp
+        500gp
+        1,000gp
+        50gp
+        100gp
+        50gp
+        100gp
+      10 jewelry, 
+      base
+        200-1200
+        100-100
+        200-1200
+        200-1200
+        1000-6000
+        200-1200
+        2000-8000
+        2000-12000
+        1000-6000
+        500-3000
+        values
+        600gp
+          800gp
+          600gp
+        800gp
+        2,000gp
+          700gp
+        4,000gp
+        8,000gp
+        4,000gp
+        2,000gp
+      philtre of persuasiveness
+      philtre of persuasiveness
+      philtre of glibness
+      flying potion
+      oil of etherealness
+      potion of fire breath
+      potion of growth
       ring invis, 
       sword +1,
       decanter of endless water,
       girdle of dwarvenkind,
       scroll: protection from cold
-      4K pp, 7 jewelry
+      4K pp,
+      7 jewelry
       ring of contrariness (invisibility),
       necklace of strangulation,
       scroll: protection from plants,
       poison potion,
       scroll: 2 spells; hold person, material
-28-
+28- the store room for the ogre magi loot.
 29-
 30-
 31-
