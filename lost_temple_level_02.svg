@@ -10285,9 +10285,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.7581501"
-     inkscape:cx="211.44631"
-     inkscape:cy="182.38638"
+     inkscape:zoom="1.2431999"
+     inkscape:cx="1031.4045"
+     inkscape:cy="241.21609"
      inkscape:document-units="in"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -12758,5 +12758,13 @@
          id="tspan5760"
          x="425.17465"
          y="850.55023">37</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.30000001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3365-4-6-3"
+       width="14.589375"
+       height="8.206543"
+       x="-1007.1339"
+       y="-885.51251"
+       transform="scale(-1,-1)" />
   </g>
 </svg>
