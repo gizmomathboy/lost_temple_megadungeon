@@ -21,9 +21,12 @@
 20-orcs
 21-temple, columns hide temple relics, dais has god
 22-food storage for bandits and goblins
-23-
-24-
-25-
+   being raided by dwarves in rooms 23, 24
+23- dwarves, comparable level to party
+    80% likely to be able to have adventuring tools available for sale at 2x the price
+    room has been modified to really only fit dwarves
+24- dwarves like 23 but weapons
+25-  
 26-
 27-
 28-
@@ -35,3 +38,4 @@
 34-
 35-
 36-
+37-
