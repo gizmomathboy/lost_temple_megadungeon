@@ -15,8 +15,8 @@
 15-goblin watchers of room 14, secret rooms lead to
    viewing areas. Door into room is barred and has a spy hole
 16-human bandits
-17-loots of loot
-18-orcs
+17-lots of loot
+18-orcs, in cahoots with group watching access to this level. Allied tribe
 19-orcs
 20-orcs
 21-temple, columns hide temple relics, dais has god
@@ -26,9 +26,25 @@
     80% likely to be able to have adventuring tools available for sale at 2x the price
     room has been modified to really only fit dwarves
 24- dwarves like 23 but weapons
-25-  
-26-
-27-
+25- Alcove for shrine to lost god. Has been defaced. Can see some images, mostly of human
+    like figures bowed in prayer or prostrate before something
+    The alcoves to the west have empty pedestals. Empty in that what was on them is either
+    missing or defaced, broken, or otherwise harmed to make the sculpture distinct and descriptive
+26- series of columns. bears fragments of similar writing/images as 25. If a detect magic is
+    cast there is some residual magic, possible divine.
+27- 1e Ogre magi, 2. Extracting a toll for anyone trying to get to level 3 via room 29
+      6K gp, 12 gems,10 jewelry, 7 potions
+      ring invis, 
+      sword +1,
+      decanter of endless water,
+      girdle of dwarvenkind,
+      scroll: protection from cold
+      4K pp, 7 jewelry
+      ring of contrariness (invisibility),
+      necklace of strangulation,
+      scroll: protection from plants,
+      poison potion,
+      scroll: 2 spells; hold person, material
 28-
 29-
 30-
@@ -38,4 +54,7 @@
 34-
 35-
 36-
-37-
+37- locked door, trapped with poison dart. save vs poison or 2d12 damage and a save vs poison to avoid
+    a disease of the blood that saps CON 1 pt per week.
+    room contains some statues of abstract shapes and beings.
+    Various holy items are on shelves (1,000gp worth because of exoticness and materials)
