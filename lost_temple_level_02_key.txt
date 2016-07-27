@@ -33,6 +33,7 @@
 26- series of columns. bears fragments of similar writing/images as 25. If a detect magic is
     cast there is some residual magic, possible divine.
 27- 1e Ogre magi, 2. Extracting a toll for anyone trying to get to level 3 via room 29
+    doors are iron, barred, and have a spy hole
       6K gp, 
       12 gems,
         10gp
@@ -90,13 +91,13 @@
       poison potion,
       scroll: 2 spells; hold person, material
 28- the store room for the ogre magi loot.
-29-
+29- very plain room with only a couple couches, tables, and chairs
 30-
 31-
 32-
 33-
 34-
-35-
+35- 9 pieces of jewelry on pedestals in glass display cases
 36-
 37- locked door, trapped with poison dart. save vs poison or 2d12 damage and a save vs poison to avoid
     a disease of the blood that saps CON 1 pt per week.
