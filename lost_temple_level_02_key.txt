@@ -1,4 +1,4 @@
- 1-down to 3rd level  
+ 1-down to 3rd level, barred  
  2-treasure has a penrose tile
  3-treasure has a penrose tile
  4-lounging bugbear
@@ -15,11 +15,15 @@
 15-goblin watchers of room 14, secret rooms lead to
    viewing areas. Door into room is barred and has a spy hole
 16-human bandits
+   See Dungeon Mod A
 17-lots of loot
 18-orcs, in cahoots with group watching access to this level. Allied tribe
 19-orcs
 20-orcs
 21-temple, columns hide temple relics, dais has god
+   written on doors, "evil, don't enter"
+   locke casts wizard lock on door, 11th level MU
+   See Dungeon Mod A
 22-food storage for bandits and goblins
    being raided by dwarves in rooms 23, 24
 23- dwarves, comparable level to party
@@ -34,6 +38,7 @@
     cast there is some residual magic, possible divine.
 27- 1e Ogre magi, 2. Extracting a toll for anyone trying to get to level 3 via room 29
     doors are iron, barred, and have a spy hole
+    One is invis, the other is a human looking person. Dark blue skin, bright red hair, yellow eyes
       6K gp, 
       12 gems,
         10gp
@@ -92,14 +97,24 @@
       scroll: 2 spells; hold person, material
 28- the store room for the ogre magi loot.
 29- very plain room with only a couple couches, tables, and chairs
-30-
-31-
-32-
-33-
-34-
+30- brass door
+    polished stone columns. copper inlay. geometric designs.
+    walls have similar theme
+    in charcoal on wall to the left of the door as you are facing into the room, "Don't trust gatekeepers"
+    copper inlay has a faint magic aura
+31- effectively empty
+32- locked door with trap, sleep poison, bone door
+    skeletons - 21 AC 7, HD 1
+33- graffiti - "dwarves are cheap skates" "orcs rule, cubes drool"
+    "bob, where are you?"
+34- door is not locked nor trapped
+    just a badly battered table
 35- 9 pieces of jewelry on pedestals in glass display cases
 36-
 37- locked door, trapped with poison dart. save vs poison or 2d12 damage and a save vs poison to avoid
     a disease of the blood that saps CON 1 pt per week.
     room contains some statues of abstract shapes and beings.
     Various holy items are on shelves (1,000gp worth because of exoticness and materials)
+
+Dungeon Mod A
+  Locke, 11th level MU cast 2 wall of stone to fill passage way
