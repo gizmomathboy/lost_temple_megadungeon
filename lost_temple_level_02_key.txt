@@ -9,7 +9,19 @@
  9-
 10-
 11-accessed only by teleporter in 13
-12-
+   Loot room
+     Long sword +3
+       14 INT, 7 EGO, NG
+       speaks: bugbuear, common, sylph, NG
+       Hypnotic pattern (when moved) 3 times/day
+       Remove fear by touch
+     Long sword +3 - plain
+     Other magic sword
+       12 INT, semi-empathy, 1 primary
+       LG
+       Detect evil when held or ordered
+
+12-pivot trap, 40 foot drop
 13-teleporter to 11
 14-broken bits of wood
 15-goblin watchers of room 14, secret rooms lead to
@@ -102,6 +114,12 @@
     walls have similar theme
     in charcoal on wall to the left of the door as you are facing into the room, "Don't trust gatekeepers"
     copper inlay has a faint magic aura
+    This room acts like a ley line and a spell caster of sufficient level
+    can detect this.
+    Spells memorized in this room are done so in half the time.
+    If sufficient mediation is done, memorized spells with variables can be
+    controlled.
+
 31- effectively empty
 32- locked door with trap, sleep poison, bone door
     skeletons - 21 AC 7, HD 1
