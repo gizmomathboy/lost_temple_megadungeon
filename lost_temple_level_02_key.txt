@@ -10,16 +10,25 @@
 10-
 11-accessed only by teleporter in 13
    Loot room
+     Quill of Never Ending Ink
+     +1 Chainmail with Fire Resistance
+     Shield +1
+     Pipes of the Sewers
      Long sword +3
        14 INT, 7 EGO, NG
        speaks: bugbuear, common, sylph, NG
        Hypnotic pattern (when moved) 3 times/day
        Remove fear by touch
      Long sword +3 - plain
-     Other magic sword
+     Long sword +2
        12 INT, semi-empathy, 1 primary
        LG
        Detect evil when held or ordered
+     Ring of X-Ray Vision
+     Shield +1/+4 vs Missiles
+     Heavy Crossbow +1
+     Shield -1, Missile Attractor
+     Potion of Healing
 
 12-pivot trap, 40 foot drop
 13-teleporter to 11
