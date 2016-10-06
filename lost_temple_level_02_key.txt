@@ -7,19 +7,66 @@
  7-kobold vassals of bugbear
  8-kobold vassals of bugbear
  9-
-10-
+10-5 adventurers
+   9th MU
+       AC: 1, HP: 47
+       13, 17, 17, 16, 12, 13
+       bracers of defence, AC 4
+       philter of beauty
+       scroll, protection from magic
+       ring of jumping
+       wand of illumination
+       dagger +1
+
+   9th Cleric
+       AC: -2  HP: 64
+       14, 16, 11, 14, 16, 12
+       hammer +1
+       splint +4
+       potion of clairaudience
+       scroll, protection from non-dragon breath weapons
+
+   10th Monk
+       AC: 0 HP: 78 (dragon #53 version)
+       15, 11, 10, 16, 12, 17
+       Move: 20"
+       open hand: 5/2 3-12
+       periapt of wound closure
+
+   8th Fighter
+       AC: -3 HP: 63 
+       14, 13, 15, 18/35, 13, 14
+       STR +1/+3
+       Long sword +3
+       plate mail of etherealness, +5, 16 charges
+       scroll, protection from posession
+       robe of blending
+
+   9th Fighter
+       AC: -3 HP: 97
+       12, 13, 11, 18/48, 18, 16
+       +1/+3 
+       sword +5 Defender
+         INT 15 EGO 10, N
+         speaks: common, orcish, goblin, xorn
+         Protection +2 when held or worn
+         detect traps of large size in a 1” radius
+         Clairaudience (when touched to the ear)
+       plate mail +1
+       figurine of wonderous power, serpentine owl
+
 11-accessed only by teleporter in 13
    Loot room
      Quill of Never Ending Ink
      +1 Chainmail with Fire Resistance
      Shield +1
      Pipes of the Sewers
+     sword +1/+4 vs reptiles
      Long sword +3
        14 INT, 7 EGO, NG
        speaks: bugbuear, common, sylph, NG
        Hypnotic pattern (when moved) 3 times/day
        Remove fear by touch
-     Long sword +3 - plain
      Long sword +2
        12 INT, semi-empathy, 1 primary
        LG
