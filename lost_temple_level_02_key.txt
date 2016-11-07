@@ -57,6 +57,8 @@
 
 11-accessed only by teleporter in 13
    Loot room
+     20 gems
+     10 jewelry
      Quill of Never Ending Ink
      +1 Chainmail with Fire Resistance
      Shield +1
