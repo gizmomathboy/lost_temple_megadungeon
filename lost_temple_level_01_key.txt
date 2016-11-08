@@ -35,6 +35,9 @@ Lost Temple
            treasure: none
 19-
 20-owlbears
+    13 hp, AC 5, HD 5, claw/claw/bit d6/d6/2d6 if both claws hit hug for 2d4
+    6,500 cp
+    1 piece of jewelry, 200gp
 21-barred door
      stairs down to level 3
      magic mouth: 
