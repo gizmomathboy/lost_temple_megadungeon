@@ -33,7 +33,10 @@ Lost Temple
            cure diseas in 1 turn, a painful death)
            hd: 3, hp: 16, xp: 101
            treasure: none
-19-
+19-fire beetles
+   AC 4, HD 1+1 AC 4 damage 2d4
+    HP 4,8,8,8,8,8
+   no treasure
 20-owlbears
     13 hp, AC 5, HD 5, claw/claw/bit d6/d6/2d6 if both claws hit hug for 2d4
     6,500 cp
@@ -43,6 +46,7 @@ Lost Temple
      magic mouth: 
       "Deeper and deeper searched, the more arcane the knowledge perched."
 22-alcoves with undead skeletons
+   5 gems: 10 gp, 100 gp, 1,000 gp, 500 gp 
 23-wights
 24-ghouls
 25-ghasts
