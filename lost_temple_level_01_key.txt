@@ -95,7 +95,9 @@ Lost Temple
 30-ochre jelly
 31-rot grubs
 32-roper
+   HP 43, AC 0, HD 11
 33-grey ooze
+   ac 19, 10
 34-ogres
 35-goblins
 36-goblins
