@@ -103,8 +103,8 @@ Lost Temple
    AC 2, HD 9+2, 1 attack with two-handed swword, +3 to hit, creatures under 5 hit dice run in
    panic. Can not be turned. MR: 90%
    DEX 14, Morale: 12 
+
    Controlled by vampire
-     
 
    Treasure
 
