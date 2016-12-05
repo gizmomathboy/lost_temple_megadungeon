@@ -1,0 +1,17 @@
+Construction notes:
+  - will have 
+    - 5 headed pyrohydro
+    - wererats
+    - wandering NPC party
+    - carnivorous apes
+    - several rust monsters wandering the halls
+    - hell hounds
+    - giant snake
+    - shadows
+    - ghasts
+ There is a mage doing active experiments. Some of the apes are working with him, others are looking to escape
+
+01 - room that leads up to room 1-49.
+     Very ornate room.
+02 - Entry room, large brass doors on either side of a central, 
+     one way window. Looks out into the hallway
