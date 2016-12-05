@@ -50,7 +50,8 @@ Lost Temple
 23-wights
    5
    Hyperborea
-   AC: 7, DEX: 7, Morale: 12 HD 4, 1 attack d4, level drain (save v. death)
+   AC: 7, DEX: 7, Morale: 12 HD 4, 1 attack d4, level drain (save v. death),
+   undead level 5
    Treasure B
    HP: 18, 23, 12, 17, 25
 24-ghouls
