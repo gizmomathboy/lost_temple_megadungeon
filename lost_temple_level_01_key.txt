@@ -54,6 +54,11 @@ Lost Temple
    undead level 5
    Treasure B
    HP: 18, 23, 12, 17, 25
+   Treasure:
+     1,000 gp
+     4,500 gp in gems: 10 gp, 10 gp, 10 gp, 50 gp, 100 gp, 5,000 gp
+                       5,180 gp gross, 4,500 gp net
+     
 24-ghouls
    5
    Hyperborea
