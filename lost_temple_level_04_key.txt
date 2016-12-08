@@ -14,4 +14,6 @@ Construction notes:
 01 - room that leads up to room 1-49.
      Very ornate room.
 02 - Entry room, large brass doors on either side of a central, 
-     one way window. Looks out into the hallway
+     one way window. Looks out into the foyer
+
+03 - foyer, large quartz doors opposite the bronze
