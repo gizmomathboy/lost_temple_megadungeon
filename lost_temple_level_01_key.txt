@@ -127,7 +127,9 @@ Lost Temple
      
 29-fire beetle nest (present but might be wandering monster)
 30-ochre jelly
+   1 encountered, HP 15, AC 8, HD 5, damage 2d6, 1 attack
 31-rot grubs
+   13 in 1 pile and 9 in the other
 32-roper
    HP 43, AC 0, HD 11
 33-grey ooze
