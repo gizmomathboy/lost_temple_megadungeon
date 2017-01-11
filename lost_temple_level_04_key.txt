@@ -17,3 +17,31 @@ Construction notes:
      one way window. Looks out into the foyer
 
 03 - foyer, large quartz doors opposite the bronze
+     most creatures on this level can't get through the quartz
+     doors
+
+A - Display case with rather pedestrian taxidermy
+
+B - Display case with slightly abnormal taxidermy. Reptile heads on
+    mammals, bird heads on reptiles, and mammal heads on fish.
+
+C - Display case with normal taxidermy of fantastical beasts like
+    goblins and kobolds
+
+D - Display case with slightly abnormal taxidermy. Like goblin heads
+    on kobolds and such.
+
+E - Taxidermy of creatures that haven't been seen before by anyone
+
+
+Very likely to encounter wandering monsters. Check every 2 turns.
+1 in 6 chance.
+
+Wandering monster
+
+1   : NPC Party
+2-4 : Snake
+5-9 : Rust monster
+10  : Carnivorous Ape
+11  : hell hound
+12  : Giant rats
