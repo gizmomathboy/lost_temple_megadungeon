@@ -186,6 +186,14 @@
 34- door is not locked nor trapped
     just a badly battered table
 35- 9 pieces of jewelry on pedestals in glass display cases
+      5,000 gp piece of jewelry
+        750 gp piece of jewelry
+        500 gp piece of jewelry
+        500 gp piece of jewelry
+        200 gp piece of jewelry
+        200 gp piece of jewelry
+        100 gp piece of jewelry
+        100 gp piece of jewelry
 36-
 37- locked door, trapped with poison dart. save vs poison or 2d12 damage and a save vs poison to avoid
     a disease of the blood that saps CON 1 pt per week.
