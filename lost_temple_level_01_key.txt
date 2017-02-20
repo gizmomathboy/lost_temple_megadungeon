@@ -132,6 +132,10 @@ Lost Temple
    13 in 1 pile and 9 in the other
 32-roper
    HP 43, AC 0, HD 11
+   Treasure
+     3 gems: 500 gp gem
+             100 gp gem
+              50 gp gem
 33-grey ooze
    ac 19, 10
 34-ogres
