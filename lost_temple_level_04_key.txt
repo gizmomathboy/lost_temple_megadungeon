@@ -36,9 +36,9 @@ Construction notes:
 
 4-F : Doors to "science rooms"
 
-4-04 :
+4-04 : Mad Scientist body guard room
 
-4-05 :
+4-05 : Observation site
 
 4-06 : Mad Science assistant room
 
