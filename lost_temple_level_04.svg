@@ -841,9 +841,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.686011"
-     inkscape:cx="458.84412"
-     inkscape:cy="2620.163"
+     inkscape:zoom="2.1561534"
+     inkscape:cx="285.53882"
+     inkscape:cy="2471.7506"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -887,6 +887,71 @@
      id="layer1"
      transform="translate(0,2007.6378)">
     <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5786-7-5-28-7-1-5"
+       width="17.999981"
+       height="71.999924"
+       x="-1989.6379"
+       y="-684.00006"
+       ry="1.7382808e-05"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5786-7-5-28-7-1-6"
+       width="17.999979"
+       height="162.00011"
+       x="-1935.6379"
+       y="-612.00006"
+       ry="1.7382808e-05"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5786-7-5-28-7-1-7"
+       width="18.000021"
+       height="90.000008"
+       x="-1953.6379"
+       y="-468.00003"
+       ry="1.7382808e-05"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="opacity:1;fill:#e6e6e6;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5919-3-3-9"
+       width="54.000061"
+       height="18.000008"
+       x="-1323.6379"
+       y="-378.00003"
+       inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level3.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       transform="matrix(0,1,-1,0,0,0)"
+       ry="0" />
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5786-7-5-28-7-1-56"
+       width="18.000061"
+       height="90.000015"
+       x="-1287.6379"
+       y="-360.00003"
+       ry="1.7382808e-05"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="opacity:1;fill:#e6e6e6;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5919-3-3-2"
+       width="108.00006"
+       height="18.000013"
+       x="-1377.6379"
+       y="-270.00003"
+       inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level3.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       transform="matrix(0,1,-1,0,0,0)"
+       ry="0" />
+    <path
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 630,-1863.6379 0,-18 -18,0 0,-18 -162,0 0,18 -18,0 0,18 z"
+       id="path3724"
+       inkscape:connector-curvature="0" />
+    <rect
        style="opacity:1;fill:#e6e6e6;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5919-93-2-0-9-7"
        width="35.999981"
@@ -925,10 +990,10 @@
     <rect
        style="opacity:1;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5786-7-5-28-7-6"
-       width="18.000027"
-       height="162.00002"
+       width="17.999975"
+       height="287.99994"
        x="-1881.6379"
-       y="-828.00006"
+       y="-954.00006"
        ry="1.7382808e-05"
        transform="matrix(0,1,-1,0,0,0)" />
     <rect
@@ -2619,8 +2684,8 @@
        id="rect5919-1"
        width="126.00005"
        height="90.000015"
-       x="-1305.6379"
-       y="-756.00006"
+       x="-1197.6378"
+       y="-648.00006"
        inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level3.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150"
@@ -2656,6 +2721,39 @@
        height="18.000027"
        x="-1935.6379"
        y="-396.00003"
+       inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level3.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       transform="matrix(0,1,-1,0,0,0)"
+       ry="1.5647238e-05" />
+    <rect
+       style="opacity:1;fill:#e6e6e6;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5919-93-2-0-9-9-3"
+       width="71.999977"
+       height="17.999985"
+       x="-1953.6379"
+       y="-702.00006"
+       inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level3.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"
+       transform="matrix(0,1,-1,0,0,0)"
+       ry="1.5647238e-05" />
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5786-7-5-28-7-1-3"
+       width="17.999964"
+       height="125.99997"
+       x="-1683.6379"
+       y="-522.00006"
+       ry="1.7382808e-05"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="opacity:1;fill:#e6e6e6;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5919-93-2-0-9-4-1"
+       width="17.999979"
+       height="18.00004"
+       x="-1953.6379"
+       y="-612.00006"
        inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level3.png"
        inkscape:export-xdpi="150"
        inkscape:export-ydpi="150"
