@@ -34,11 +34,17 @@ Construction notes:
 
 4-E : Taxidermy of creatures that haven't been seen before by anyone
 
+4-F : Doors to "science rooms"
+
 4-04 :
 
 4-05 :
 
-4-06 : Observation room
+4-06 : Mad Science assistant room
+
+4-07 : Mad Science assistant room
+
+4-08 : Observation room
      Notes and books fill the room. Subjects in room 4-07 are
      observed through this room. A double barred door leads from
      this room into a small cell with a one way window peering
@@ -47,12 +53,12 @@ Construction notes:
      The secret door as imperceptible viewing slots to see if there
      is anyone in the room.
 
-4-07 : Holding room
+4-09 : Holding room
      Test subjects are placed with the room. Locked and barred
      door is the only way in or out. Various methods of restraints
      are found in the room
 
-4-08 : Secret Observation room
+4-10 : Secret Observation room
      A secret door from 4-06 leads to this room. Once in the room
      the door back to the main Observation room is behind a book
      case. The door to the secret observation cell is behind a 
@@ -68,6 +74,20 @@ Construction notes:
      The door to the other secret door is behind a desk that 
      rotates. The secret door has impercptible viewing slots
      to see if there might be anything on the other side of the door.
+
+4-11 : Science lab
+
+4-12 : Science lab stores
+
+4-13 : Mad Scientist bed room
+
+4-14 : Mad Scientist library
+
+4-15 : Some rome
+
+4-16 : Some rome
+
+4-17 : Some rome
 
 Very likely to encounter wandering monsters. Check every 2 turns.
 1 in 6 chance.
