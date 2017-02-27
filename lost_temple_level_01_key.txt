@@ -139,8 +139,35 @@ Lost Temple
 33-grey ooze
    ac 19, 10
 34-ogres
+   Hyperborea: ape, mountain
+     3: AC 5, HD 4+4 HP 13, 17, 23, 27
+     Treasure:
+        150 gp 
+         10 gp gem
+         10 gp gem
+         10 gp gem
+         50 gp gem
+         50 gp gem
+         50 gp gem
+        100 gp gem
+        100 gp gem
+        100 gp gem
+        100 gp gem
+        500 gp gem
+        500 gp gem
+        Potion of Water Breathing
+        Potion of Healing
+        Love Potion
+        Potion of Super-Speed
+       
 35-goblins
+   Hyperborea: Ape-man
+      7: AC 7, HD 1+2 HP 10, 7, 7, 9, 8, 3, 3
+      58 ep on their persons
 36-goblins
+   Hyperborea: Ape-man
+      11: AC 7, HD 1+2 HP 10, 7, 7, 9, 8, 3, 3
+      81 ep on their persons
 37-mimic, chimney down to 2nd level, changing to circular staircase
 38-giant black centipedes
 39-stuck door
