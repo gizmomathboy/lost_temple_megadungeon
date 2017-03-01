@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.47943423"
-     inkscape:cx="1416.392"
-     inkscape:cy="953.78997"
+     inkscape:zoom="0.87401324"
+     inkscape:cx="1248.235"
+     inkscape:cy="2241.2637"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1221,6 +1221,29 @@
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level4.png"
+       y="-1512.0001"
+       x="-1125.6377"
+       height="251.99985"
+       width="18.000027"
+       id="rect5919-3-3-9-2-75"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:0.99999988;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:#f2f2f2;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:1.87499988;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1224.0001,-1125.6377 h -198 l -18,467.9999 h 36 v -90 h 72 v -54 h -72 v -107.9999 h 90 v 161.9999 h 90 v -71.9999 h -18 v -18 h 18 v -18 h -18 v -18 h 18 v -18 h -18 v -18 h 18 l 0,-90.00002 h -18 v -17.99998 h 18 v -36 h -54 v 36 h -90 v -54 h 144 z"
+       id="path6043-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccc" />
+    <path
+       style="opacity:1;fill:#f2f2f2;fill-opacity:0.50196081;fill-rule:nonzero;stroke:none;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1260,-1089.6377 h 216 v 431.99993 h -36 v -90 h -72 v -54 h 72 v -107.99991 h -90 v 161.99991 h -90 v -71.99991 h 18 v -18 h -18 v -18 h 18 v -18 h -18 v -18 h 18 v -18 h -18 v -54 h 144 v -54.00002 h -90 v 36.00002 h -54 v -36.00002 h 18 v -18 h -18 z"
+       id="path6043"
+       inkscape:connector-curvature="0" />
+    <rect
+       ry="0"
+       transform="rotate(90)"
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level4.png"
        y="-1494.0001"
        x="-1449.6377"
        height="17.999962"
@@ -1266,10 +1289,10 @@
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level3.png"
-       y="-1512.0001"
+       y="-1566.0001"
        x="-1107.6377"
-       height="17.999962"
-       width="504.00095"
+       height="18.000036"
+       width="503.99997"
        id="rect5879-6-9"
        style="opacity:1;fill:#f2f2f2;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
@@ -1277,23 +1300,11 @@
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level3.png"
-       y="-1458.0001"
-       x="-1107.6377"
+       y="-1512.0001"
+       x="-1107.6378"
        height="17.999958"
        width="504.00015"
        id="rect5879-6-3"
-       style="opacity:1;fill:#f2f2f2;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <rect
-       ry="0"
-       transform="rotate(90)"
-       inkscape:export-ydpi="150"
-       inkscape:export-xdpi="150"
-       inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level4.png"
-       y="-1170.0001"
-       x="-1125.6377"
-       height="144.00006"
-       width="17.999973"
-       id="rect5919-3-3-9-2"
        style="opacity:1;fill:#f2f2f2;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
        ry="0"
@@ -1645,12 +1656,12 @@
        style="opacity:1;fill:#f2f2f2;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        style="opacity:1;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 1512,-513.63777 -18,-90 h 18 l 18,90 z"
+       d="m 1566.0001,-513.63772 -18,-90 h 18 l 18,90 z"
        id="path2341"
        inkscape:connector-curvature="0" />
     <path
        style="opacity:1;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.87499988;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 1440.0001,-513.63772 18,-90 h -18 l -18,90 z"
+       d="m 1494.0001,-513.63772 18,-90 h -18 l -18,90 z"
        id="path2341-0"
        inkscape:connector-curvature="0" />
     <rect
@@ -4272,8 +4283,9 @@
        inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level4.png"
        inkscape:connector-curvature="0"
        id="path3618"
-       d="m 1116,-1125.6379 h 54 v 54"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       d="m 1116,-1125.6379 108.0001,2e-4 v 54"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:nodetypes="ccc" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -4288,8 +4300,9 @@
        inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level4.png"
        inkscape:connector-curvature="0"
        id="path3622"
-       d="m 1260,-1125.6379 h -54 v 54"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       d="m 1296.0001,-1125.6377 h -36 v 54"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:nodetypes="ccc" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -6454,22 +6467,22 @@
     <path
        inkscape:connector-curvature="0"
        id="path4083"
-       d="m 1440,-513.6379 18,-90"
+       d="m 1494.0001,-513.63772 18,-90"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="path4085"
-       d="m 1494,-603.6379 18,90"
+       d="m 1548.0001,-603.63772 18,90"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="path4087"
-       d="m 1458,-603.6379 v -234"
+       d="m 1512.0001,-603.63772 v -234"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        id="path4089"
-       d="m 1494,-837.6379 v 234"
+       d="m 1548.0001,-837.63772 v 234"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <circle
        r="45"
@@ -6491,9 +6504,10 @@
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 1458,-837.63768 V -1125.6377 H 1260"
+       d="m 1512.0001,-837.63772 v -287.99998 l -216,0"
        id="path23116"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 180.00001,-1143.6377 h -72 v 18 H 54.000003 v -36 H 180.00001"
@@ -6827,9 +6841,10 @@
     </g>
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 1494,-837.63768 V -1125.6377"
+       d="m 1548,-837.6377 10e-5,-288"
        id="path23348"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1260,-1161.6377 h 360.0001"
@@ -6837,9 +6852,10 @@
        inkscape:connector-curvature="0" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 1494,-1125.6377 h 126.0001 v 288.00002"
+       d="m 1548.0001,-1125.6377 72,0 v 288.00002"
        id="path23352"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 1620.0001,-1161.6377 h 90 v -54"
@@ -7105,12 +7121,98 @@
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level4.png"
-       y="-1350"
-       x="-1107.6378"
-       height="18.000004"
-       width="54.000061"
+       y="-918.00006"
+       x="-1071.6377"
+       height="35.99995"
+       width="54.000027"
        id="rect5919-3-3-9-2-6"
        style="opacity:1;fill:#f2f2f2;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:0.99999988;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1224.0001,-819.63772 v 72 h -90.8463 m -18.2032,0 h -70.9505 v 216 h 396 v -216 h -70.9622 m -18.2032,0 h -90.8346 v -72"
+       id="path5953"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:0.9375;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1062,-729.63777 v 180 h 360 v -180 z"
+       id="path5955"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:0.9375;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1242,-729.63777 v 180"
+       id="path5957"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:0.9375;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1062,-639.63777 h 360"
+       id="path5959"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1224,-1071.6377 h -144 v 54 h 90 v -36 h 54"
+       id="path5961"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1224,-1053.6377 v 126.00002"
+       id="path5963"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1260,-1071.6377 v 90.00002"
+       id="path5965"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1260,-963.63768 v 36"
+       id="path5967"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1260,-819.63768 h 18 v -18 h -18 v -18 h 18 v -18 h -18 v -18 h 18 v -18 h -18 v -18"
+       id="path5969"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:1.87499988;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1224.0001,-819.63772 h -18 v -18 h 18 v -18 h -18 v -18 h 18 v -18 h -18 v -18 h 18 v -18"
+       id="path5969-3"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1260,-981.63768 h 54 v -36.00002 h 90 v 54.00002 h -144"
+       id="path5986"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1260,-1035.6377 h 18 v 18 h -18"
+       id="path5988"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1224,-999.63768 h -18 v -18.00002 h 18"
+       id="path5990"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1440,-657.63777 h 36 v -431.99993 h -216"
+       id="path5992"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1260,-1107.6377 h 234 v 485.99993 h -54"
+       id="path5994"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1116,-747.63777 v -54 h -72 v -107.99991 h 90 v 161.99991"
+       id="path5996"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:1.87499988;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1368.0001,-747.63782 v -54 h 72 v -107.9999 h -90 v 161.9999"
+       id="path5996-6"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:label="grid"
