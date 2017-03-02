@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.745909"
-     inkscape:cx="404.55434"
-     inkscape:cy="500.06621"
+     inkscape:zoom="11.491818"
+     inkscape:cx="456.71169"
+     inkscape:cy="454.81662"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -36,7 +36,7 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
-     inkscape:snap-global="true">
+     inkscape:snap-global="false">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -474,27 +474,27 @@
       </g>
     </g>
     <g
-       id="g4608"
-       transform="translate(144.28163,90.209534)">
-      <circle
-         r="9"
-         cy="539.36218"
-         cx="279"
+       id="g4631">
+      <ellipse
+         ry="6.715766"
+         rx="7.3684044"
+         cx="423.28162"
+         cy="629.57172"
          id="path4590"
          style="opacity:1;fill:none;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:0.9375;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <path
          inkscape:transform-center-y="-0.71534471"
          inkscape:transform-center-x="0.018168931"
-         d="m 283.58249,545.70941 -4.54087,-4.04717 -4.47831,4.11629 2.44587,-5.56927 -5.2987,-2.98712 6.05252,0.60516 1.20353,-5.96243 1.29478,5.94329 6.04252,-0.69787 -5.25229,3.06799 z"
+         d="m 426.72199,634.20577 -3.28843,-2.82545 -3.31224,2.99213 1.67097,-4.0006 -3.86922,-2.22551 4.32116,0.35294 0.92093,-4.36757 0.99964,4.21873 4.43839,-0.4738 -3.70334,2.25438 z"
          inkscape:randomized="0"
          inkscape:rounded="0"
          inkscape:flatsided="false"
-         sodipodi:arg2="1.5631324"
-         sodipodi:arg1="0.93481387"
-         sodipodi:r2="2.1252561"
-         sodipodi:r1="7.6724038"
-         sodipodi:cy="539.53705"
-         sodipodi:cx="279.02533"
+         sodipodi:arg2="1.4934532"
+         sodipodi:arg1="0.91723104"
+         sodipodi:r2="1.63864"
+         sodipodi:r1="5.6166609"
+         sodipodi:cy="629.74658"
+         sodipodi:cx="423.30695"
          sodipodi:sides="5"
          id="path4604"
          style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.9375;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
