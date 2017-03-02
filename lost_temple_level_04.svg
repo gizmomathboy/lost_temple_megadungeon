@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.39833365"
-     inkscape:cx="1410.2235"
-     inkscape:cy="840.72237"
+     inkscape:zoom="1.5933346"
+     inkscape:cx="548.36875"
+     inkscape:cy="1928.1212"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1525,13 +1525,13 @@
        inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level4.png"
        y="-1494.0001"
        x="-1773.6377"
-       height="17.999962"
-       width="522"
+       height="18.00004"
+       width="341.99997"
        id="rect5919-3-3-9-2-7"
        style="opacity:1;fill:#f2f2f2;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:0.99999988;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        style="opacity:1;fill:#f2f2f2;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 1116.0001,-1557.6377 270,-270 h 54 v 360 h -54 v -90 h -108 v 108 h 162.0001 v 162 h 36 v 18 h -108 l -10e-5,-108 h -72 l -180,-162 h 54 l 90,-108 h 36 v 72 h 18 v -18 h 18 v 18 h 18 v -18 h 18 v 18 h 18 v -126 h -18 v 18 h -18 v -18 h -18 v 18 h -18 v -18 h -18 v 36 h -36 l -90,108 h -54"
+       d="m 1116.0001,-1557.6377 270,-270 h 54 v 360 h -54 v -90 h -108 v 108 l 198,0 0,18 -90,0 v 162 h -17.9999 l -10e-5,-108 h -72 l -180,-162 h 54 l 90,-108 h 36 v 72 h 18 v -18 h 18 v 18 h 18 v -18 h 18 v 18 h 18 v -126 h -18 v 18 h -18 v -18 h -18 v 18 h -18 v -18 h -18 v 36 h -36 l -90,108 h -54"
        id="path2703"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccc" />
@@ -1546,9 +1546,9 @@
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level4.png"
-       y="-1476.0001"
+       y="-1386.0001"
        x="-1269.6377"
-       height="270.00009"
+       height="180.00008"
        width="18.000027"
        id="rect5919-3-3-9-2-54"
        style="opacity:1;fill:#f2f2f2;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:0.99999988;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
@@ -4083,8 +4083,9 @@
        inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level4.png"
        inkscape:connector-curvature="0"
        id="path3614"
-       d="m 1440,-1467.6379 h -54 v -90 h -108 v 108 h 162 v 162 h 36 v -180"
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       d="m 1440,-1467.6379 h -54 v -90 h -108 v 108 h 162 l 10e-5,2e-4 h 36 l -10e-5,-18.0002"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:nodetypes="ccccccccc" />
     <path
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -7358,30 +7359,6 @@
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
        inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level4.png"
-       y="-414.00003"
-       x="-873.6377"
-       height="36.000011"
-       width="90.000031"
-       id="rect5919-3-3-9-97"
-       style="opacity:1;fill:#f2f2f2;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <rect
-       ry="0"
-       transform="rotate(90)"
-       inkscape:export-ydpi="150"
-       inkscape:export-xdpi="150"
-       inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level4.png"
-       y="-576.00006"
-       x="-999.63745"
-       height="53.999977"
-       width="89.999786"
-       id="rect5919-3-3-9-94"
-       style="opacity:1;fill:#f2f2f2;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:0.99999994;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <rect
-       ry="0"
-       transform="rotate(90)"
-       inkscape:export-ydpi="150"
-       inkscape:export-xdpi="150"
-       inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level4.png"
        y="-918.00006"
        x="-1071.6377"
        height="35.99995"
@@ -8443,7 +8420,7 @@
          y="-1320.8235"
          x="1301.8821"
          id="tspan3649-1-47"
-         sodipodi:role="line">4-17</tspan></text>
+         sodipodi:role="line">4-24</tspan></text>
     <text
        inkscape:export-ydpi="150"
        inkscape:export-xdpi="150"
@@ -8566,6 +8543,76 @@
        d="m 1584.0001,-1611.6377 h 108 v 54 H 1512 v -18 h 72.0001 v -36"
        id="path10174"
        inkscape:connector-curvature="0" />
+    <text
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level4.png"
+       id="text3647-6-4-9"
+       y="-1139.2983"
+       x="63.412357"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:14.99999905px;line-height:1.25;stroke-width:0.99999988px"
+         y="-1139.2983"
+         x="63.412357"
+         id="tspan3649-1-47-6"
+         sodipodi:role="line">4-25</tspan></text>
+    <text
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level4.png"
+       id="text3647-6-4-4"
+       y="-1070.0002"
+       x="58.70525"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:14.99999905px;line-height:1.25;stroke-width:0.99999988px"
+         y="-1070.0002"
+         x="58.70525"
+         id="tspan3649-1-47-3"
+         sodipodi:role="line">4-26</tspan></text>
+    <text
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level4.png"
+       id="text3647-6-4-3"
+       y="-907.17175"
+       x="58.70525"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:14.99999905px;line-height:1.25;stroke-width:0.99999988px"
+         y="-907.17175"
+         x="58.70525"
+         id="tspan3649-1-47-38"
+         sodipodi:role="line">4-27</tspan></text>
+    <text
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level4.png"
+       id="text3647-6-4-6"
+       y="-888.23505"
+       x="264.35434"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:14.99999905px;line-height:1.25;stroke-width:0.99999988px"
+         y="-888.23505"
+         x="264.35434"
+         id="tspan3649-1-47-0"
+         sodipodi:role="line">4-28</tspan></text>
+    <text
+       inkscape:export-ydpi="150"
+       inkscape:export-xdpi="150"
+       inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level4.png"
+       id="text3647-6-4-48"
+       y="-727.65186"
+       x="185.88203"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:14.99999905px;line-height:1.25;stroke-width:0.99999988px"
+         y="-727.65186"
+         x="185.88203"
+         id="tspan3649-1-47-8"
+         sodipodi:role="line">4-29</tspan></text>
   </g>
   <g
      inkscape:label="grid"
