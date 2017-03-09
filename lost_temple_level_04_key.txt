@@ -37,6 +37,32 @@ Construction notes:
 4-F : Doors to "science rooms"
 
 4-04 : Mad Scientist body guard room
+       6 Fighters L 5
+         Alaitz AC HP 50
+           STR 15,DEX 11,CON 14,INT 15,WIS 10,CHA 17
+           +1 shield, potion human control, levitation
+           Ring Mail, Long sword
+
+         Anaball AC HP 27
+           STR 17,DEX 16,CON 12,INT 13,WIS 14,CHA 11,
+           potion fire resistance, potion speed, +1 ring protection 
+
+         Orix AC HP 41
+           STR 10,DEX 15,CON 13,INT 12,WIS 11,CHA 12
+           potion healing, giant strength, super-heroism, animal control
+
+         Merope AC HP 41
+           STR 13,DEX 11,CON 17,INT 17,WIS 12,CHA 11
+           potion extra-healing, polymorph, heroism, invulnerability
+
+         Theot AC HP 46
+           STR 12,DEX 18,CON 15,INT 9,WIS 11,CHA 12,
+           potion healing, giant strength, 10 +1 arrows
+
+         Pert AC HP 32
+           STR 13,DEX 13,CON 13,INT 11,WIS 17,CHA 16
+           +1 mace, ring mammal control
+
 
 4-05 : Observation site
 
