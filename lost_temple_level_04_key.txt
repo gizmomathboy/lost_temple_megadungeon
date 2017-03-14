@@ -116,11 +116,125 @@ Construction notes:
 
 4-14 : Mad Scientist library
 
-4-15 : Some rome
+4-15 : Some room
 
-4-16 : Some rome
+4-16 : Some room
 
-4-17 : Some rome
+4-17 : Some room
+
+4-18 : Some room
+
+4-19 : Some room
+
+4-20 : Some room
+
+4-21 : Some room
+
+4-22 : Some room
+
+4-23 : Some room
+
+4-24 : Some room
+
+4-25 : Some room
+
+4-26 : Some room
+
+4-27 : Some room
+
+4-28 : Some room
+
+4-29 : Some room
+
+4-30 : Some room
+
+4-31 : Some room
+
+4-32 : Some room
+
+4-33 : Some room
+
+4-34 : Some room
+
+4-35 : Some room
+
+4-36 : Some room
+
+4-37 : Some room
+
+4-38 : Some room
+
+4-39 : Some room
+
+4-40 : Some room
+
+4-41 : Some room
+
+4-42 : Some room
+
+4-43 : Some room
+
+4-44 : Some room
+
+4-45 : Some room
+
+4-46 : Some room
+
+4-47 : Some room
+
+4-48 : Some room
+
+4-49 : Some room
+
+4-50 : Some room
+
+4-51 : Some room
+
+4-52 : Some room
+
+4-53 : Some room
+
+4-54 : Some room
+
+4-55 : Some room
+
+4-56 : Some room
+
+4-57 : Some room
+
+4-58 : Some room
+
+4-59 : Some room
+
+4-60 : Some room
+
+4-61 : Some room
+
+4-62 : Some room
+
+4-63 : Some room
+
+4-64 : Some room
+
+4-65 : Some room
+
+4-66 : Some room
+
+4-67 : Some room
+
+4-68 : Some room
+
+4-69 : Some room
+
+4-70 : Some room
+
+4-71 : Some room
+
+4-72 : Some room
+
+4-73 : Some room
+
+4-74 : Some room
 
 Very likely to encounter wandering monsters. Check every 2 turns.
 1 in 6 chance.
