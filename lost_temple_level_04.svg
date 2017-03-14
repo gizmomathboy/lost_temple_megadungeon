@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.93607349"
-     inkscape:cx="670.52371"
-     inkscape:cy="790.04897"
+     inkscape:zoom="2.4133145"
+     inkscape:cx="1762.7844"
+     inkscape:cy="2447.5205"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -1814,8 +1814,8 @@
        inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level4.png"
        y="-1764.0001"
        x="-1863.6377"
-       height="17.999975"
-       width="576"
+       height="18.000025"
+       width="594"
        id="rect5919-3-3-9-2-7-7-3"
        style="opacity:1;fill:#f2f2f2;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:0.99999988;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
@@ -1831,8 +1831,8 @@
        inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level4.png"
        y="-1710.0001"
        x="-1827.6377"
-       height="17.999973"
-       width="540"
+       height="18.000029"
+       width="558"
        id="rect5919-3-3-9-2-7-7"
        style="opacity:1;fill:#f2f2f2;fill-opacity:0.50196078;fill-rule:nonzero;stroke:none;stroke-width:0.99999988;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
@@ -8846,13 +8846,13 @@
          sodipodi:role="line">4-23</tspan></text>
     <path
        style="opacity:1;fill:none;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 1710.0001,-1287.6377 v -90 -36 -414 H 1530"
+       d="m 1710.0001,-1269.6377 0,-108 v -36 -414 H 1530"
        id="path9595"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
        style="opacity:1;fill:none;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 1530,-1863.6377 h 90.0001 v -36 h 36 v 36 h 90 v 306 216 54"
+       d="m 1530,-1863.6377 h 90.0001 v -36 h 36 v 36 h 90 v 306 216 l 0,72"
        id="path9597"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
