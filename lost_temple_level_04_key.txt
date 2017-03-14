@@ -38,37 +38,44 @@ Construction notes:
 
 4-04 : Mad Scientist body guard room
        6 Fighters L 5
-         Alaitz AC HP 50
+         Alaitz AC 4 HP 50
            STR 15,DEX 11,CON 14,INT 15,WIS 10,CHA 17
            +1 shield, potion human control, levitation
-           Ring Mail, Long sword
+           Studded (6), Long sword
 
-         Anaball AC HP 27
+         Anaball AC 4 HP 27
            STR 17,DEX 16,CON 12,INT 13,WIS 14,CHA 11,
            potion fire resistance, potion speed, +1 ring protection 
+           Studded (6), Bastard sword, Long bow
 
-         Orix AC HP 41
+         Orix AC 4 HP 41
            STR 10,DEX 15,CON 13,INT 12,WIS 11,CHA 12
            potion healing, giant strength, super-heroism, animal control
+           Chainmail (6 DR 1), Shield, Bastard Sword
 
          Merope AC HP 41
            STR 13,DEX 11,CON 17,INT 17,WIS 12,CHA 11
            potion extra-healing, polymorph, heroism, invulnerability
+           Chainmail (5 dr 1), Shield, Bastard sword
 
          Theot AC HP 46
            STR 12,DEX 18,CON 15,INT 9,WIS 11,CHA 12,
            potion healing, giant strength, 10 +1 arrows
+           Chainmail (5 dr 1), Long bow, Great Axe
 
          Pert AC HP 32
            STR 13,DEX 13,CON 13,INT 11,WIS 17,CHA 16
            +1 mace, ring mammal control
+           Chainmail (5 dr 1), Shield, Long Sword
 
 
 4-05 : Observation site
 
 4-06 : Mad Science assistant room
+       Necromancer 5
 
 4-07 : Mad Science assistant room
+       Magician 5
 
 4-08 : Observation room
      Notes and books fill the room. Subjects in room 4-07 are
