@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.66190391"
-     inkscape:cx="1558.7195"
-     inkscape:cy="3164.0533"
+     inkscape:zoom="1.3238078"
+     inkscape:cx="330.12198"
+     inkscape:cy="3103.6216"
      inkscape:document-units="in"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -14537,5 +14537,30 @@
          style="fill:none;stroke:#000000;stroke-width:0.30000001"
          height="720" />
     </g>
+    <path
+       style="opacity:1;fill:#f2f2f2;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 90.000005,108.00008 v 54 H 144 v -54 z"
+       id="path11152"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#f2f2f2;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 90.000005,126.00008 H 144"
+       id="path11154"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#f2f2f2;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 90.000005,144.00008 H 144"
+       id="path11156"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#f2f2f2;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 108,108.00008 v 54"
+       id="path11158"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#f2f2f2;fill-opacity:0.50196078;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 126,108.00008 v 54"
+       id="path11160"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
