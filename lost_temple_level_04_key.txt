@@ -138,12 +138,23 @@ Construction notes:
 
 4-13 : Mad Scientist bed room
        1e: MU 10th level
+       STR 8,DEX 17,CON 15,INT 18,WIS 15,CHA 11
+       AC: 3(7) HP: 42
        +2 Dagger
        staff of power, 30 charges
-       robe protection +1
+       robe protection +2
+       ring of teleportation
        Brooch of shielding
-       serpentine owl
+       figurine of golden lions
        ring of spell turning
+       potion of extra-healing x2
+       Spells:
+         1e: 6(4)-6(4)-4(3)-3(2)-2
+           1st:
+           2nd:
+           3rd:
+           4th:
+           5th:
 
 4-14 : Mad Scientist library
 
@@ -275,7 +286,7 @@ Wandering monster
 1   : NPC Party
 2-4 : Snake
 5-8 : Rust monster
- 9  : Grimlock raidign party
+ 9  : Grimlock raiding party
 10  : Carnivorous Ape
 11  : hell hound
 12  : Giant rats
