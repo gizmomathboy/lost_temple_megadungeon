@@ -53,17 +53,17 @@ Construction notes:
            potion healing, giant strength, super-heroism, animal control
            Chainmail (6 DR 1), Shield, Bastard Sword
 
-         Merope AC HP 41
+         Merope AC 5 HP 41
            STR 13,DEX 11,CON 17,INT 17,WIS 12,CHA 11
            potion extra-healing, polymorph, heroism, invulnerability
            Chainmail (5 dr 1), Shield, Bastard sword
 
-         Theot AC HP 46
+         Theot AC 1(5) HP 46
            STR 12,DEX 18,CON 15,INT 9,WIS 11,CHA 12,
            potion healing, giant strength, 10 +1 arrows
            Chainmail (5 dr 1), Long bow, Great Axe
 
-         Pert AC HP 32
+         Pert AC 4 HP 32
            STR 13,DEX 13,CON 13,INT 11,WIS 17,CHA 16
            +1 mace, ring mammal control
            Chainmail (5 dr 1), Shield, Long Sword
@@ -72,10 +72,34 @@ Construction notes:
 4-05 : Observation site
 
 4-06 : Mad Science assistant room
-       Necromancer 5
+       AS&SH: Necromancer 5
+       1e : Magic User: 5
+       STR 9,DEX 16,CON 16,INT 16,WIS 15,CHA 10
+       HP: 26, AC:3(5)
+       +1 dagger
+       bracers ac: 5
+       wand of lightning bolts: 5 charges
+       potion healing
+       Spells: 
+         1e: 6(4)-4(2)-1
+           1st: firewater, grease, magic missile x2
+           2nd: invisibility x3, stinking cloud
+           3rd: lightning bolt
 
 4-07 : Mad Science assistant room
-       Magician 5
+       AS&SH: Magician 5
+       STR 11,DEX 12,CON 13,INT 16,WIS 12,CHA 11
+       HP: 15, AC: 5
+       1e : Magic User: 5
+       +2 dagger
+       wand of magic missiles: 10 charges
+       bracers ac: 5
+       potion healing
+       Spells: 
+         1e: 4-2-1
+           1st: firewater, grease, magic missile x2
+           2nd: invisibility, web
+           3rd: fireball
 
 4-08 : Observation room
      Notes and books fill the room. Subjects in room 4-07 are
@@ -113,6 +137,13 @@ Construction notes:
 4-12 : Science lab stores
 
 4-13 : Mad Scientist bed room
+       1e: MU 10th level
+       +2 Dagger
+       staff of power, 30 charges
+       robe protection +1
+       Brooch of shielding
+       serpentine owl
+       ring of spell turning
 
 4-14 : Mad Scientist library
 
