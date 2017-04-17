@@ -1,6 +1,26 @@
  1-down to 3rd level, barred  
- 2-treasure has a penrose tile
- 3-treasure has a penrose tile
+ 2- 2 barbed devils
+    HD 8, HP 32, 60
+    AC 0 DMG 2-8/2-8/3-12 MR 35%
+   treasure has a white penrose tile
+ 3- 3 vrocks
+    HD: 8, HP 38, 44, 34
+    AC: 0 DMG d4/d4/d8/d8/d6 MR 50%
+    Treasure:
+      2,500 cp
+      2,500 ep
+      3,000 gp
+        200 gp piece of jewelry
+        100 gp piece of jewelry
+      5,000 gp piece of jewelry
+        100 gp gem
+        50 gp gem
+        10 gp gem
+        100 gp gem
+        100 gp gem
+      Studded +2
+      Large Shield +1
+      treasure has a black penrose tile
  4-lounging bugbear
  5-kobold vassals of bugbear
  6-kobold vassals of bugbear
