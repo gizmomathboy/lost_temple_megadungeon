@@ -20,6 +20,10 @@ Construction notes:
 4-03 : foyer, large quartz doors opposite the bronze
      most creatures on this level can't get through the quartz
      doors
+     Stepping out into the hallway causes a magic mouth to activate:
+     "Welcome to the Collection, we hope you enjoy your stay"
+     This alerts the bodyguards, assistants, and mad scientist to 
+     the presence of someone coming from above
 
 4-A : Display case with rather pedestrian taxidermy
 
@@ -133,8 +137,16 @@ Construction notes:
      to see if there might be anything on the other side of the door.
 
 4-11 : Science lab
+       A variety of glassware along with vivisection equipment is located
+       here. There are 3-18 potions under construction here. There is 1
+       2:6 chance it is complete enough to be useful.
+
+       There are also 4-32 scrolls in various states of work as well.
+       1:6 chance of being useful
 
 4-12 : Science lab stores
+       Everything a growing mad scientist needs to make most any potion
+       or scroll, or hideous abomination to magic.
 
 4-13 : Mad Scientist bed room
        1e: MU 10th level
@@ -157,12 +169,27 @@ Construction notes:
            5th:
 
 4-14 : Mad Scientist library
+       A lot of books, some are magical
 
-4-15 : Some room
+4-15 : an NPC party is renting this and the adjoining spaces
+       They are mostly using it as a resting spot for the
+       rest of the dungeon. They will match the strength of the
+       party exploring this space.
 
-4-16 : Some room
+       In Greyhawk they are 50% likely to be from the Scarlet 
+       Brotherhood
 
-4-17 : Some room
+       Rent is high from the Mad Scientist on this level. it
+       is 1K gp per person per month. Mostly because the door
+       has similar magic as 4-03. No monsters can get in.
+
+       Plus the door is wizard locked by the Mad Scientist and
+       he regulary changes the passphrase
+
+4-16 : holds the non-useful loot from 4-15
+
+4-17 : an invisible chest holds the dearest loot and secrets from
+       the party in 4-15
 
 4-18 : Some room
 
@@ -206,7 +233,7 @@ Construction notes:
 
 4-38 : Some room
 
-4-39 : Some room
+4-39 : Basketball court that is now how to a pyrohydra
 
 4-40 : Some room
 
