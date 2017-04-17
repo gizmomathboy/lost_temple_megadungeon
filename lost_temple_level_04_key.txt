@@ -247,9 +247,14 @@ Construction notes:
 
 4-41 : Some room
 
-4-42 : Some room
+4-42 : mess hall
+       produces food and beverages by advanced science
+       not quite enough food to feed both grimlock factions
+       they can only get it to make water and a twinky like
+       confection. It doesn't understand words for much food
+       that didn't exist in the time of the ancient race/hyperboreans
 
-4-43 : Some room
+4-43 : grimlock faction 1
 
 4-44 : Some room
 
@@ -261,9 +266,9 @@ Construction notes:
 
 4-48 : Some room
 
-4-49 : Some room
+4-49 : storage room for large pieces of mining equipment
 
-4-50 : Some room
+4-50 : grimlock faction 2
 
 4-51 : Some room
 
@@ -275,7 +280,7 @@ Construction notes:
 
 4-55 : Some room
 
-4-56 : Some room
+4-56 : storage room for large pieces of mining equipment
 
 4-57 : Some room
 
@@ -293,7 +298,18 @@ Construction notes:
 
 4-64 : Some room
 
-4-65 : Some room
+4-65 : mass teleporter to other places
+       might be able to decipher controls to send things
+       to other hyperborean planets
+       Can reach any part of the hyperborean/ancient ones
+       empire
+
+       The dotted line is the force field the separates what
+       will be transport versus what won't. It is also a 
+       visible sign on the floor and ceiling
+
+       Darker circle is teleport zone. Controls and displays outside
+       the dotted circle
 
 4-66 : Some room
 
