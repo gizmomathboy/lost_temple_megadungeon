@@ -191,7 +191,15 @@ Construction notes:
 4-17 : an invisible chest holds the dearest loot and secrets from
        the party in 4-15
 
-4-18 : Some room
+4-18 : cells holding abomintations to magic. Current experiments here
+       are:
+         superior albino ape: trying to reprogram its brain
+         superior albino ape/scorpion cross: second arms have stingers
+             for hands
+         superior albino ape/squid: tentacles for arms, no sentience
+             left
+         lizard man: awaiting inspiration
+         grimlock  : just messing with it, trying to understand it
 
 4-19 : Some room
 
