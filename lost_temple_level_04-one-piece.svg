@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.92.1 unknown"
    sodipodi:docname="lost_temple_level_04-one-piece.svg"
-   inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/lost_temple_level_03_complete.png"
+   inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/lost_temple_level_04_complete_one_piece.png"
    inkscape:export-xdpi="150"
    inkscape:export-ydpi="150">
   <sodipodi:namedview
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3238078"
-     inkscape:cx="330.12198"
-     inkscape:cy="3103.6216"
+     inkscape:zoom="0.8532355"
+     inkscape:cx="783.16093"
+     inkscape:cy="2914.1484"
      inkscape:document-units="in"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -1444,7 +1444,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
