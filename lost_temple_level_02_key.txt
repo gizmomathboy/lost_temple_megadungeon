@@ -3,6 +3,9 @@
     HD 8, HP 32, 60
     AC 0 DMG 2-8/2-8/3-12 MR 35%
    treasure has a white penrose tile
+     10,000 cp
+      4,500 sp
+      1,500 gp
  3- 3 vrocks
     HD: 8, HP 38, 44, 34
     AC: 0 DMG d4/d4/d8/d8/d6 MR 50%
