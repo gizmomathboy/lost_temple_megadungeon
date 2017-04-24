@@ -25,10 +25,20 @@
       Large Shield +1
       treasure has a black penrose tile
  4-lounging bugbear
+   ASSH: Lounging Ape-Man Alpha
+   1 AC 7 
  5-kobold vassals of bugbear
+   ape-man vassals of Alpha
+   5 AC 8 HD 1+2 HP 11, 9, 8, 11, 14
  6-kobold vassals of bugbear
+   ape-man vassals of Alpha
+   6 AC 8 HD 1+2 HP 11, 9, 8, 11, 14, 10
  7-kobold vassals of bugbear
+   ape-man vassals of Alpha
+   4 AC 8 HD 1+2 HP 11, 9, 8, 11
  8-kobold vassals of bugbear
+   ape-man vassals of Alpha
+   5 AC 8 HD 1+2 HP 11, 9, 8, 11, 14
  9-
 10-5 adventurers
    9th MU
