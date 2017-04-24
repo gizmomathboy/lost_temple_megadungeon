@@ -26,19 +26,51 @@
       treasure has a black penrose tile
  4-lounging bugbear
    ASSH: Lounging Ape-Man Alpha
-   1 AC 7 
+   1 AC 7 HD 3+2 HP 20
+     +1 short bow
+     5,000 gp gem
+       100 gp gem
+        10 gp gem
+        10 gp gem
+     potion heroic action
+     potion water breathing
+     potion Extraordinary Healing
+     potion super heroic action
+
  5-kobold vassals of bugbear
    ape-man vassals of Alpha
    5 AC 8 HD 1+2 HP 11, 9, 8, 11, 14
+   2,000 gp jewelry
+   1,000 gp jewelry
+     100 gp jewelry
+      50 gp gem
+      50 gp gem
+      10 gp gem
+   Potion of Water Breathing
+   Potion of Diminutiveness
+   Potion of Healing
+   Potion of Heroic Action
+
  6-kobold vassals of bugbear
    ape-man vassals of Alpha
-   6 AC 8 HD 1+2 HP 11, 9, 8, 11, 14, 10
+   5 AC 8 HD 1+2 HP 11, 9, 8, 11, 14
+   1 shaman AC 8 HD 1+2 HP 10
+     2nd lv
+     100 gp gem
+      10 gp gem
+
  7-kobold vassals of bugbear
    ape-man vassals of Alpha
    4 AC 8 HD 1+2 HP 11, 9, 8, 11
+     50 gp gem
+     50 gp gem
+
  8-kobold vassals of bugbear
    ape-man vassals of Alpha
    5 AC 8 HD 1+2 HP 11, 9, 8, 11, 14
+     2,000 gp jewelry
+       500 gp jewelry
+
  9-
 10-5 adventurers
    9th MU
