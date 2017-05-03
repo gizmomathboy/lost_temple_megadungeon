@@ -18,6 +18,8 @@ Level 2 connections to:
 
 Level 3 connections to:
   1st level: ??-?? (10 feet wide stairs)
+  2nd level: 02-09
+             02-01
 
 Level 4 connections to:
   1st level: ??-?? (30 foot wide staircase)
