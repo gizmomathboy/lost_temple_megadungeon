@@ -1,4 +1,4 @@
-# IF YOU ARE A PLAYER IN ONE OF MY CAMPAIGNS PLEASE DON"T READ/CLONE THIS REPO
+# IF YOU ARE A PLAYER IN ONE OF MY CAMPAIGNS PLEASE DON'T READ/CLONE THIS REPO
 
 To the rest of the world this is just a public repo of my work on a megadungeon for the campaigns I run.
 
