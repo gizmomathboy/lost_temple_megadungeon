@@ -25,10 +25,24 @@ Rooms
         Be respectful of the sleeping.
         Honor the pious.
 
-   secret room 1 : moldy, rotting cloth on shelves
-   secret room 2 : leads to spyhole into room 4?
+03-02 : moldy, rotting cloth on shelves
+
+03-03 : leads to spyhole into room 03-04 
+        2 eye holes at normal human height.
+        Used to view those taking an extended rest so as to not
+        disturb their enhanced slumber.
 
 03-04 : large bed and shrine
-        sleeping on the bed gives a peaceful and serene sleep. Getting
+        There is a mural of the sky in the "north" side. If roll 4d6
+        under Wisdom then you can notice the clouds or whatever
+        part of the mural that could move does. It is very, very, very
+        small movements.
+        
+        The altar has a fresco of a human looking person with a glow
+        about them sleeping on a bed or large pillows. On the other side
+        is another glowing human looking person. They appearing to be
+        drumming.
+
+        Sleeping on the bed gives a peaceful and serene sleep. Getting
         a full night's rest in but 1 hour. Sleeping for 8 hours is like
         resting for a week
