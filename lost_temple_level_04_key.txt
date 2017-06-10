@@ -333,6 +333,9 @@ Construction notes:
 
 4-74 : Some room
 
+4-75 : Secret entrance to secret access to large circular stair case
+       that goes from Level 2 to Level 8.
+
 Very likely to encounter wandering monsters. Check every 2 turns.
 1 in 6 chance.
 
