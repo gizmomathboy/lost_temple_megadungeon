@@ -49,29 +49,74 @@ Rooms
 
      Woe be the person that disturbs any of these drummers, nevermind trying to get to the top.
 
-03-06 : 
+03-06 : Skarl Cult dorm room
 
-03-07 : 
+03-07 : Skarl Cult dorm room
 
-03-08 : 
+03-08 : Skarl Cult dorm room
 
-03-09 : 
+03-09 : Skarl Cult dorm room
 
-03-10 : 
+03-10 : Skarl Cult dorm room
 
-03-11 : 
+03-11 : Skarl Cult dorm room
 
-03-12 : 
+03-12 : Skarl Cult dorm room
 
-03-13 : 
+03-13 : Skarl Cult dorm room
 
-03-new place : the center column has a trap and if triggered then 4 wights come out of the mural.
-   8 gems
-   scroll case
-   Book of Mung
-   Sword +3 Soul Drinker, 2 handed scimitar
-   Little wooden pill box
-     pill of heroic action
-             super heroic action
-             Elixir of Longevity
-             Poison
+03-14 : teleport doors. Once walked into then walking through a door
+        teleports to a randomish place
+
+03-15 : pit inside a pit
+
+03-16 : temple room
+
+03-17 : 
+
+03-18 : 
+
+03-19 : 
+
+03-20 : 
+
+03-21 : 
+
+03-22 : 
+
+03-23 : 
+
+03-24 : 
+
+03-A  : Ossuary
+
+03-B  : Ossuary
+
+03-C  : Ossuary
+
+03-25 : The center column has a trap and if triggered then 1 wight per
+        party member comes out of the mural. They come out from the
+        various depictions of Mung.
+
+        Secret Door in Central column
+           8 gems
+           scroll case
+           Book of Mung
+           Sword +3 Soul Drinker, 2 handed scimitar
+           Little wooden pill box
+             pill of heroic action
+                     super heroic action
+                     Elixir of Longevity
+                     Poison
+
+03-26 : Contains a sarcophagus
+
+03-27 : 
+
+03-28 : 
+
+03-29 : 
+
+03-30 : 
+
+
