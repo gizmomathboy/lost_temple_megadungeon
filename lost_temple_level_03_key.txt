@@ -117,6 +117,9 @@ Rooms
 
 03-29 : 
 
-03-30 : 
+03-30 : temple of kib, sender of life
 
+03-31 : treasure: healing pistol, like radium pistol but heals instead
+        of causing damage.
 
+03-32 : sarcophagus of curing
