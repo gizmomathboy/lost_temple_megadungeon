@@ -14,7 +14,7 @@
    viewBox="0 0 765.00001 990.00002"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 unknown"
+   inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="dungeon_dressing.svg">
   <sodipodi:namedview
      id="base"
@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.491818"
-     inkscape:cx="456.71169"
-     inkscape:cy="454.81662"
+     inkscape:zoom="6.5229733"
+     inkscape:cx="260.67498"
+     inkscape:cy="552.93139"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -36,7 +36,7 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
-     inkscape:snap-global="false">
+     inkscape:snap-global="true">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -149,43 +149,43 @@
          y="440.17072"
          style="font-size:20px;line-height:1.25">Door, basic</tspan></text>
     <g
-       id="g4378"
-       transform="translate(36.160533,36.319132)">
+       id="g3846"
+       transform="translate(-0.16053,-2.0437985)">
       <text
          id="text4351"
-         y="507.89243"
-         x="211.72943"
+         y="545.93622"
+         x="247.88997"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-size:15px;line-height:1.25"
-           y="507.89243"
-           x="211.72943"
+           y="545.93622"
+           x="247.88997"
            id="tspan4353"
            sodipodi:role="line">S</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path4359"
-         d="m 216,494.36218 0,18"
+         d="m 252.16053,532.40599 v 18"
          style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
-       id="g4373"
-       transform="translate(55.985387,36.001934)">
+       id="g3841"
+       transform="translate(-1.98539,-0.00191853)">
       <text
          id="text4367"
-         y="499.01086"
-         x="167.00456"
+         y="535.01282"
+         x="222.98994"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-size:15px;line-height:1.25"
-           y="499.01086"
-           x="167.00456"
+           y="535.01282"
+           x="222.98994"
            id="tspan4369"
            sodipodi:role="line">S</tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path4371"
-         d="m 162,494.36218 18,0"
+         d="m 217.98539,530.36411 h 18"
          style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
@@ -511,5 +511,25 @@
          x="395.54462"
          y="601.74817"
          style="font-size:20px;stroke-width:0.9375px">Statue</tspan></text>
+    <g
+       id="g4683">
+      <text
+         transform="rotate(45.000005)"
+         id="text4351-6-5"
+         y="252.72739"
+         x="511.02289"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.97056198px;line-height:0%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.41421342px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:15px;line-height:1.25;stroke-width:1.41421342px"
+           y="252.72739"
+           x="511.02289"
+           id="tspan4353-7-6"
+           sodipodi:role="line">S</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4359-5-2"
+         d="m 198,530.3622 -18,18"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.93750002;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
