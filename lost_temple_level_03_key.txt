@@ -101,15 +101,58 @@ Rooms
         Secret Door in Central column
            8 gems
            scroll case
+             1 spell, level 3, magician: tiny hut
            Book of Mung
            Sword +3 Soul Drinker, 2 handed scimitar
-           Little wooden pill box
+           Little wooden pill box, about big enough to hold a deck
+             cards
              pill of heroic action
                      super heroic action
                      Elixir of Longevity
                      Poison
 
-03-26 : Contains a sarcophagus
+03-26 : Contains a sarcophagus with a ghast in it
+        3,500 cp
+        2,000 sp
+        4,500 gp
+        Chain Mail +3
+        Small Shield −1, Missile Attraction (cursed)
+
+        18 gems
+           10 gp gem
+           10 gp gem
+           10 gp gem
+           10 gp gem
+           10 gp gem
+           10 gp gem
+           10 gp gem
+           50 gp gem
+           50 gp gem
+           50 gp gem
+           50 gp gem
+          500 gp gem
+           50 gp gem
+           10 gp gem
+          100 gp gem
+           50 gp gem
+           50 gp gem
+           50 gp gem
+
+        9 pieces of jewelry
+           100 gp piece of jewelry
+           100 gp piece of jewelry
+           500 gp piece of jewelry
+           500 gp piece of jewelry
+           200 gp piece of jewelry
+           200 gp piece of jewelry
+           200 gp piece of jewelry
+           500 gp piece of jewelry
+          1,000 gp piece of jewelry
+        scroll Protection Scroll, Petrifaction
+        scroll Protection Scroll, Plants
+        scroll Protection Scroll, Elementals
+        scroll Protection Scroll, Plants
+          
 
 03-27 : 
 
