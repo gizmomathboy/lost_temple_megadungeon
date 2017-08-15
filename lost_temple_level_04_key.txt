@@ -317,23 +317,42 @@ Construction notes:
        Darker circle is teleport zone. Controls and displays outside
        the dotted circle
 
-4-66 : Some room
+4-66 : opening into mining area there might be random mining equipment
+       present.
 
-4-67 : Some room
+       There is a chance that a grimlock or ape man party will be in this
+       room of the mining tunnels
 
-4-68 : Some room
+       The ancient ones were mining a stable, non-radiaton poisoning version
+       of glowing diamond. Identical to the glowing, green diamonds found
+       in the diamond desert (see Ghost Ship of the Desert Dunes) but without
+       the side effects.
 
-4-69 : Some room
+       A co-existing mineral is a very hard metal analogous to adamantium/mithril.
+       Can be forged by dwarves into magnificent items (+3 or better weapons/armor).
+       Very light and tough. Basically anything made with it gives a +3 or better
+       beneficial bonus. Like if a summoning/magic circle is made with it, the
+       summoner gets +3 or better on saves dealing with summoned creatures.
 
-4-70 : Some room
+       However, there is a 5% chance during creating the mineral gets poisoned and
+       the beneficial bonus becomes a detrimental bonus (-3 instead of +3). One
+       doesn't know it's poisoned until the item is used.
 
-4-71 : Some room
+4-67 : mining tunnel
 
-4-72 : Some room
+4-68 : mining tunnel
 
-4-73 : Some room
+4-69 : mining tunnel
 
-4-74 : Some room
+4-70 : mining tunnel
+
+4-71 : mining tunnel
+
+4-72 : mining tunnel
+
+4-73 : mining tunnel
+
+4-74 : mining tunnel
 
 4-75 : Secret entrance to secret access to large circular stair case
        that goes from Level 2 to Level 8.
