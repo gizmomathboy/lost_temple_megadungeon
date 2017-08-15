@@ -245,11 +245,13 @@ Construction notes:
 
 4-38 : Some room
 
-4-39 : Basketball court that is now how to a pyrohydra
+4-39 : Basketball court that is now home to a pyrohydra
 
-4-40 : Some room
+4-40 : Locker room - placard above it in alien script
+          If deciphered it reads: Home of the Flargots
 
-4-41 : Some room
+4-41 : Locker room - placard above it in alient script
+          If deciphered it reads: Visitors
 
 4-42 : mess hall
        produces food and beverages by advanced science
