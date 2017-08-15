@@ -14,7 +14,7 @@
    viewBox="0 0 1980.0001 3060"
    id="svg5764"
    version="1.1"
-   inkscape:version="0.92.1 unknown"
+   inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="lost_temple_level_04.svg"
    inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/lost_temple_level_03_complete.png"
    inkscape:export-xdpi="150"
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6712248"
-     inkscape:cx="1937.9654"
-     inkscape:cy="2575.1806"
+     inkscape:zoom="3.6552816"
+     inkscape:cx="341.30209"
+     inkscape:cy="1348.3788"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -9808,13 +9808,13 @@
        inkscape:export-xdpi="150"
        inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level4.png"
        id="text3647-6-4-48-48-7-1-8"
-       y="-223.65186"
-       x="239.88202"
+       y="-225.78421"
+       x="233.70705"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:0%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999988px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
          style="font-size:14.99999905px;line-height:1.25;stroke-width:0.99999988px"
-         y="-223.65186"
-         x="239.88202"
+         y="-225.78421"
+         x="233.70705"
          id="tspan3649-1-47-8-7-11-15-318"
          sodipodi:role="line">4-65</tspan></text>
     <text
@@ -9992,6 +9992,17 @@
          x="1781.7072"
          id="tspan3649-1-47-8-7-11-15-318-7-0-7"
          sodipodi:role="line">4-75</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.0625px;line-height:125%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="270"
+       y="-279.63782"
+       id="text2150"><tspan
+         sodipodi:role="line"
+         id="tspan2148"
+         x="270"
+         y="-279.63782"
+         style="stroke-width:0.9375px">04-65A</tspan></text>
   </g>
   <g
      inkscape:label="grid"
