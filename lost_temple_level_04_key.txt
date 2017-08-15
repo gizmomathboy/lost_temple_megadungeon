@@ -317,6 +317,8 @@ Construction notes:
        Darker circle is teleport zone. Controls and displays outside
        the dotted circle
 
+4-65A: area that controls to teleportation device are located
+
 4-66 : opening into mining area there might be random mining equipment
        present.
 
