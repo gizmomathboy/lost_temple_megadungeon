@@ -71,6 +71,11 @@ Rooms
 03-15 : pit inside a pit
 
 03-16 : temple of sish
+        a -  5 feet high column
+        b - 10 feet high column
+        c - 20 feet high column
+        d - 40 feet high column
+        e - 70 feet high column
 
 03-17 : statue 
 
