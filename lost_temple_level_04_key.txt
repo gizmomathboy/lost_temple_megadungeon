@@ -11,6 +11,9 @@ Construction notes:
     - ghasts
     - grimlocks - small raiding party
  There is a mage doing active experiments. Some of the apes are working with him, others are looking to escape
+ Part of his experimentation has been to create necklaces that make one "invisible" to grimlocks and similar
+ creatures. This even persists if a person wearing one attacks a grimlock. It does confuse them a bit
+ to see such a person in combatant with something else.
 
 4-01 : room that leads up to room 1-49.
      Very ornate room.
