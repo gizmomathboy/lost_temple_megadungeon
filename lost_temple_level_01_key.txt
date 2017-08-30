@@ -45,6 +45,9 @@ Lost Temple
      stairs down to level 3
      magic mouth: 
       "Deeper and deeper searched, the more arcane the knowledge perched."
+
+     Knar, 11th level, wizard locked it (party knows phrase): "civilization is overrated"
+
 22-alcoves with undead skeletons
    5 gems: 10 gp, 100 gp, 1,000 gp, 500 gp 
 23-wights
