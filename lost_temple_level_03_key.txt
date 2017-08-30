@@ -69,6 +69,8 @@ Rooms
         teleports to a randomish place
 
 03-15 : pit inside a pit
+        ceiling mirrors the floor, 45' up is a 10' "walk way", then a column up
+        temple of hish, silence spell in the entire room cast effectively by a god
 
 03-16 : temple of sish
         a -  5 feet high column
