@@ -161,11 +161,12 @@ Rooms
         scroll Protection Scroll, Plants
           
 
-03-27 : 
+03-27 : filled with broken things, Room of Jabim
 
-03-28 : 
+03-28 : filled with glowing embers, Room of Habaniah
 
-03-29 : 
+03-29 : Books of Roon: Filled with books stacked on each other in
+        no discernable order
 
 03-30 : temple of kib, sender of life
 
@@ -177,3 +178,35 @@ Rooms
 03-33 : maze entrance
         anti-magic field inside it
         walls can't be chipped or worn or mined
+
+        Written at the maze entrance in various magic languages:
+
+        "So it was written in the Book of Trogool, from where it was
+        stolen did Roon the Going find it and place it here."
+
+        High level spell casters will feel magic drain from there 
+        thoughts when they enter the maze. It should return upon 
+        exit (roll vs. know spell)
+
+03-34 : "Be wary of the knowledge stolen from the Book of Roon"
+
+03-35 : Room of potions
+        A spell caster of high enough level can read the magic
+        writings on these walls to be able identify any potion
+        by sight and smell and such.
+
+        It is subtle but noticeable that it does mention that poisons
+        can be disguised as a "potion". Roll 4d6 under INT/WIS whichever
+        is relevant to the caster
+
+        It will take at least a week of study to decipher and 
+        understand
+
+03-36 : Room of pills
+        Like room of potions
+
+03-37 : Room of oils
+        Like room of potions
+
+03-38 : Room of unguents and other preparations
+        Like room of potions
