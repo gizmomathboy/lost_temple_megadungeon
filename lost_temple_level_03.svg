@@ -1247,9 +1247,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59133315"
-     inkscape:cx="826.07041"
-     inkscape:cy="330.40867"
+     inkscape:zoom="2.3653326"
+     inkscape:cx="552.81222"
+     inkscape:cy="538.50336"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -10862,22 +10862,22 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.0625px;line-height:125%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="366.96783"
-       y="197.67311"
+       x="359.04083"
+       y="345.90808"
        id="text1594"><tspan
          sodipodi:role="line"
          id="tspan1592"
-         x="366.96783"
-         y="197.67311"
+         x="359.04083"
+         y="345.90808"
          style="stroke-width:0.9375px">treatise on</tspan><tspan
          sodipodi:role="line"
-         x="366.96783"
-         y="215.25124"
+         x="359.04083"
+         y="363.48621"
          style="stroke-width:0.9375px"
          id="tspan1596">potions and</tspan><tspan
          sodipodi:role="line"
-         x="366.96783"
-         y="232.82936"
+         x="359.04083"
+         y="381.06433"
          style="stroke-width:0.9375px"
          id="tspan1598">such</tspan></text>
     <g
@@ -12173,15 +12173,16 @@
     </g>
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 522.00003,746.36221 h -18 V 602.3622 h -36"
+       d="m 522.00003,746.36221 -18,-18.00001 0,-126 h -36"
        id="path3630"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 468.00003,620.3622 h 18 l 0,126 h -18 v 89.0122 l 18,0.9878"
+       d="m 468.00003,620.3622 h 18 v 108 l -18,18 v 20.23152 l 18,15.76848 v 18 h -18 -18.00001 l 0,54"
        id="path3632"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccc" />
+       sodipodi:nodetypes="cccccccccc" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 792.00005,746.36221 18,-18 h 18 l 18.00001,18 53.99999,-10e-6"
@@ -12195,15 +12196,16 @@
        inkscape:connector-curvature="0" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 522.00003,764.36221 h -36 v 54 h 18 v 108 h -18 v -90"
+       d="m 522.00003,764.36221 -18,17.99999 v 18 l 0,144 h -18 l 0,-126 -18,0 0,36 h -18.00001"
        id="path3753"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 783.61228,756.40564 -0.36234,-20.04866 -18.53129,0.36816 1.09288,19.51632 -20.08269,0.10199 1.38723,-19.55612 -17.61425,2.31011 0.204,-19.48233 -16.15901,-0.20406 0.56052,-16.81566 15.69467,-0.56053 v -18.49734 l 18.49728,0.56053 -0.41868,-19.91847 -36.87606,0.92867 -0.26035,17.86874 -36.73423,0.95108 -0.26035,18.8373 21.29991,-0.16998 -0.82671,35.44309 -21.59424,0.43044 0.39635,35.60728 21.19789,0.13019 -1.44939,71.69074 17.87873,0.024 0.11024,17.8148 19.13578,0.0199 -0.79683,-54.34089 18.69547,-0.35819 0.86482,-35.30307 37.19275,0.28849 -1.48339,34.84866 -19.81652,0.43034 -1.12104,18.27097 20.37703,-0.0739 -0.49252,35.29068 -16.71955,0.43035 -0.13017,17.34228 -19.28999,-0.30025 -0.29434,20.5131 37.15875,0.29436 -1.12105,35.34111 -18.8033,-0.23216 0.50419,-19.54444 H 729.0093 l 0.092,18.5594 -17.93676,0.14016 -0.14013,18.91768 -36.15379,-0.56055 0.84079,-35.45314 -18.21703,0.14014 0.4204,-18.77752 -54.79121,1.40132 0.14013,-20.03879 -18.77754,-0.42039 0.14013,-52.96951 -17.93676,0.42047 0.14013,18.77751 -18.07689,0.14012 0.84077,-19.7585 -18.6374,0.981 0.14012,-18.91774 18.21703,0.28024 0.28027,-18.77751 -19.19795,0.70068 0.42039,-18.07693 18.21703,-0.14009 -0.28026,-17.51641 36.43405,-2e-5 -0.28028,18.21709 -18.07689,-0.28027 0.28027,18.21702 17.79663,-3e-5 -0.42039,17.65653 36.57418,0.28028 0.42039,-18.63745 -18.77754,0.28025 0.28025,-36.71433 18.35716,-0.14014 -0.70065,-17.79661 19.0578,0.28031 0.14013,-17.09599 -18.77754,1.26117 0.28026,-18.21705 -35.73339,0.28026 -0.14014,-37.83534 h 18.77756 L 604.1045,647.9442 c 0.14013,0.28028 -18.21704,0.42041 -18.21704,0.42041 l 0.14015,-18.21703 53.67015,-0.14012 -0.28027,-19.6183 -72.0273,0.98093 0.42038,19.4782 -36.7143,-0.28026 -0.56053,18.21696 19.4782,-0.9809 -1.4013,36.01372 18.21701,0.56045 0.4204,37.27487 h 16.81571 l 0.28027,16.53543 -36.01366,0.42037 0.70066,-39.09649 -19.4782,0.42039 1.40131,55.07142 -37.13471,-0.28024"
+       d="m 783.61228,756.40564 -0.36234,-20.04866 -18.53129,0.36816 1.09288,19.51632 -20.08269,0.10199 1.38723,-19.55612 -17.61425,2.31011 0.204,-19.48233 -16.15901,-0.20406 0.56052,-16.81566 15.69467,-0.56053 v -18.49734 l 18.49728,0.56053 -0.41868,-19.91847 -36.87606,0.92867 -0.26035,17.86874 -36.73423,0.95108 -0.26035,18.8373 21.29991,-0.16998 -0.82671,35.44309 -21.59424,0.43044 0.39635,35.60728 21.19789,0.13019 -1.44939,71.69074 17.87873,0.024 0.11024,17.8148 19.13578,0.0199 -0.79683,-54.34089 18.69547,-0.35819 0.86482,-35.30307 37.19275,0.28849 -1.48339,34.84866 -19.81652,0.43034 -1.12104,18.27097 20.37703,-0.0739 -0.49252,35.29068 -16.71955,0.43035 -0.13017,17.34228 -19.28999,-0.30025 -0.29434,20.5131 37.15875,0.29436 -1.12105,35.34111 -18.8033,-0.23216 0.50419,-19.54444 H 729.0093 l 0.092,18.5594 -17.93676,0.14016 -0.14013,18.91768 -36.15379,-0.56055 0.84079,-35.45314 -18.21703,0.14014 0.4204,-18.77752 -54.79121,1.40132 0.14013,-20.03879 -18.77754,-0.42039 0.14013,-52.96951 -17.93676,0.42047 0.14013,18.77751 -18.07689,0.14012 0.84077,-19.7585 -18.6374,0.981 0.14012,-18.91774 18.21703,0.28024 0.28027,-18.77751 -19.19795,0.70068 0.42039,-18.07693 18.21703,-0.14009 -0.28026,-17.51641 36.43405,-2e-5 -0.28028,18.21709 -18.07689,-0.28027 0.28027,18.21702 17.79663,-3e-5 -0.42039,17.65653 36.57418,0.28028 0.42039,-18.63745 -18.77754,0.28025 0.28025,-36.71433 18.35716,-0.14014 -0.70065,-17.79661 19.0578,0.28031 0.14013,-17.09599 -18.77754,1.26117 0.28026,-18.21705 -35.73339,0.28026 -0.14014,-37.83534 h 18.77756 L 604.1045,647.9442 c 0.14013,0.28028 -18.21704,0.42041 -18.21704,0.42041 l 0.14015,-18.21703 53.67015,-0.14012 -0.28027,-19.6183 -72.0273,0.98093 0.42038,19.4782 -36.7143,-0.28026 -0.56053,18.21696 19.4782,-0.9809 -1.4013,36.01372 18.21701,0.56045 0.4204,37.27487 h 16.81571 l 0.28027,16.53543 -36.01366,0.42037 0.70066,-39.09649 -19.4782,0.42039 1.40131,55.07142"
        id="path1830"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+       sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
     <path
        id="path3161"
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#0000ff;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -12247,5 +12249,75 @@
          x="-216.00002"
          y="368.36221"
          style="stroke-width:0.9375px">===</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999976px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="400.40741"
+       y="906.09766"
+       id="text4339-6-9-3-7"
+       inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level3.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan4341-2-2-6-5"
+         x="400.40741"
+         y="906.09766"
+         style="font-size:20px;line-height:1.25;stroke-width:0.99999976px">03-35</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999976px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="219.21837"
+       y="726.89038"
+       id="text4339-6-9-3-3"
+       inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level3.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan4341-2-2-6-56"
+         x="219.21837"
+         y="726.89038"
+         style="font-size:20px;line-height:1.25;stroke-width:0.99999976px">03-36</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999976px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="651.61475"
+       y="476.07941"
+       id="text4339-6-9-3-2"
+       inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level3.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan4341-2-2-6-9"
+         x="651.61475"
+         y="476.07941"
+         style="font-size:20px;line-height:1.25;stroke-width:0.99999976px">03-37</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999976px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="471.61475"
+       y="296.07941"
+       id="text4339-6-9-3-1"
+       inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level3.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan4341-2-2-6-2"
+         x="471.61475"
+         y="296.07941"
+         style="font-size:20px;line-height:1.25;stroke-width:0.99999976px">03-38</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.99999905px;line-height:0%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999976px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="472.10767"
+       y="763.63403"
+       id="text4339-6-9-3-3-7"
+       inkscape:export-filename="/media/jkline/moredata/jkline/blackevil/dnd/lost_temple_megadungeon/level3.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan4341-2-2-6-56-0"
+         x="472.10767"
+         y="763.63403"
+         style="font-size:20px;line-height:1.25;stroke-width:0.99999976px">03-34</tspan></text>
   </g>
 </svg>
