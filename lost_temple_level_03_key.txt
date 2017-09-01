@@ -173,3 +173,7 @@ Rooms
         of causing damage.
 
 03-32 : sarcophagus of curing
+
+03-33 : maze entrance
+        anti-magic field inside it
+        walls can't be chipped or worn or mined
