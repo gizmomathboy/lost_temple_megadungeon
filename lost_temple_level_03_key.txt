@@ -186,7 +186,8 @@ Rooms
 
         High level spell casters will feel magic drain from there 
         thoughts when they enter the maze. It should return upon 
-        exit (roll vs. know spell)
+        exit (roll vs. know spell). This includes learning from
+        the potion rooms unless that was written down
 
 03-34 : "Be wary of the knowledge stolen from the Book of Roon"
 
