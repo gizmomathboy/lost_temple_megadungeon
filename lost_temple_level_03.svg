@@ -1247,9 +1247,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.67130377"
-     inkscape:cx="2018.9821"
-     inkscape:cy="1594.1579"
+     inkscape:zoom="0.47468345"
+     inkscape:cx="1288.3084"
+     inkscape:cy="509.53441"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -10819,12 +10819,13 @@
        inkscape:connector-curvature="0" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 396.00003,-513.63779 36,36"
+       d="m 396.00003,-513.63779 54,53.99999"
        id="path1676"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 414.00003,-531.63779 36,35.99999"
+       d="m 414.00003,-531.63779 54,53.99999"
        id="path1678"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -10841,34 +10842,37 @@
          style="stroke-width:0.9375px">magic item transmogrifier</tspan></text>
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 432.00003,-477.63779 h 108"
+       d="m 450.00003,-459.6378 h 90"
        id="path1684"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 450.00003,-495.63779 h 90"
+       d="m 468.00003,-477.6378 h 72"
        id="path1686"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 540.00003,-495.63779 v -72"
+       d="m 540.00003,-477.6378 0,-89.99999"
        id="path1688"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 540.00003,-567.6378 v -90 h 90 v 90 l -72,10e-6 v 72 l 90.00001,-1e-5 v 18 l 72,0 0,90 h -90.00001 v -90"
+       d="m 540.00003,-567.6378 v -90 h 90 v 90 l -72,10e-6 0,89.99999 90.00001,0 h 72 v 90 h -90.00001 v -72"
        id="path1690"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
+       sodipodi:nodetypes="ccccccccccc" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 540.00003,-477.63779 0,449.999992"
+       d="m 540.00003,-459.6378 0,432.000002"
        id="path1692"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 558.00003,-405.63779 v 287.99999 -359.99999 l 72,-1e-5"
+       d="m 558.00003,-405.63779 v 287.99999 -342 l 72,0"
        id="path1694"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
@@ -12480,5 +12484,16 @@
        d="m 2736.0002,-675.6378 v 54 h 72 v -72 h -54"
        id="path1940"
        inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.0625px;line-height:125%;font-family:'Liberation Serif';-inkscape-font-specification:'Liberation Serif, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1098"
+       y="-81.637787"
+       id="text1944"><tspan
+         sodipodi:role="line"
+         id="tspan1942"
+         x="1098"
+         y="-81.637787"
+         style="stroke-width:0.9375px">Undead alley</tspan></text>
   </g>
 </svg>
