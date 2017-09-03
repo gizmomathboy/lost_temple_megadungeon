@@ -26,3 +26,19 @@ Level 4 connections to:
 
   Central Spire
     secret doors : ??-??
+
+Level 5
+  from level 2 spiral staircase
+  from cliff face there is a hallway that leads to stairs
+  stairs from level 6
+  stairs from level 7
+
+
+Level 6
+  stairs to level 5
+
+
+Level 7
+
+
+Level 8
