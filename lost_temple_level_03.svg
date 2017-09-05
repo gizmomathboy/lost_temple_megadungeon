@@ -1247,9 +1247,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0777572"
-     inkscape:cx="1189.7535"
-     inkscape:cy="1410.8235"
+     inkscape:zoom="1.5241789"
+     inkscape:cx="1853.1232"
+     inkscape:cy="1605.6726"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -12594,5 +12594,13 @@
          x="687.61475"
          y="-63.920574"
          style="font-size:20px;line-height:1.25;stroke-width:0.99999976px">03-42</tspan></text>
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.875;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1955"
+       width="12.178068"
+       height="8.2636881"
+       x="1758.2085"
+       y="-494.68729"
+       ry="1.5647249e-05" />
   </g>
 </svg>
