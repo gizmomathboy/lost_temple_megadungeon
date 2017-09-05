@@ -1,8 +1,15 @@
 Construction notes:
    
  - trapped demons and devils, maybe even a modron (temp marked as 3-2)
-   They are look the same and try to convince anyone in the room to break their circle and
-   set them free
+   They are look the same and try to convince anyone in the room to break their circle and set them free
+
+   There is a lectern with 5 gem set in it. Each is worth 5,000 GP.
+
+   The are set in what looks to be a reproduction of the layout of the
+   room. Removing a gem activates/deactivates the power of a circle.
+
+   Without a gem of equal or greater value of the same type the circle
+   won't work.
 
  - temple for something (temp marked as 3-3)
      There is a hall of statues but I can't recall what they mean.
@@ -246,4 +253,7 @@ Rooms
 
 03-41 : 
 
-03-42 : 
+03-42 : Hall of the Undead
+        At any moment there are d100 undead roaming this area. They
+        will be evenly distributed throughout the hall unless an
+        event causes them to mass together.
