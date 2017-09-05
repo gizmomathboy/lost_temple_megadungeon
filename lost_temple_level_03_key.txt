@@ -211,3 +211,39 @@ Rooms
 
 03-38 : Room of unguents and other preparations
         Like room of potions
+
+03-39 : Hall of the Magic Item Transmogrifier
+        atop a 3 foot high platform is a transparent box
+        It's indestructible.
+        Side panels slide to the right. As they slide the
+        end doesn't stick out past the edge but looks to
+        disappear.
+
+        This converts a magic item from one form to a similar
+        form.
+
+        For example, if a +1 dagger is first placed into it
+        and then a short sword along with a 1,000 GP or higher
+        gem (or a special stone) after the door is closed the
+        dagger and gem/stone disappear and the short sword is
+        transformed into a +1 weapon.
+
+        This will not work with sentient items or artifacts.
+
+        Rings can become cloaks, etc but DM judgement is supreme.
+
+        The first time the room is visited there might be a magic
+        item already in the box. 
+        
+        10% chance of this.
+          If there is an item it is 90% likely to beneficial to the
+          person entering the room.
+
+          For example, if a dwarven cleric first steps into the room
+          a mace of disruption might be in the box.
+
+03-40 : 
+
+03-41 : 
+
+03-42 : 
