@@ -86,19 +86,30 @@ Rooms
         d - 40 feet high column
         e - 70 feet high column
 
-03-17 : statue 
+        Spells will have their duration and such affected
+
+        ley lines come in from everywhere
+
+        Spell powers are increased
+
+03-17 : statue, human man
+        filled with hour glasses, sun dials,
 
 03-18 : 
 
 03-19 : 
 
-03-20 : 
+03-20 : slates of dates, events, languages
 
-03-21 : statue 
+03-21 : statue of a bipedal, no nose, wrong shaped eyes
+        3 arms showing, wings
+
+        has various mechanical clocks
 
 03-22 : 
 
-03-23 : 
+03-23 : books of records of births, deaths, arrivals, and departures
+        many languages, from many places and times
 
 03-24 : 
 
@@ -219,7 +230,10 @@ Rooms
 03-38 : Room of unguents and other preparations
         Like room of potions
 
-03-39 : Hall of the Magic Item Transmogrifier
+03-39 : room of comfortable relaxations
+        chairs, divans, couches
+
+03-40 : Hall of the Magic Item Transmogrifier
         atop a 3 foot high platform is a transparent box
         It's indestructible.
         Side panels slide to the right. As they slide the
@@ -249,11 +263,11 @@ Rooms
           For example, if a dwarven cleric first steps into the room
           a mace of disruption might be in the box.
 
-03-40 : 
-
 03-41 : 
 
-03-42 : Hall of the Undead
+03-42 : 
+
+03-43 : Hall of the Undead
         At any moment there are d100 undead roaming this area. They
         will be evenly distributed throughout the hall unless an
         event causes them to mass together.
