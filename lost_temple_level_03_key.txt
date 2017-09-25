@@ -189,9 +189,15 @@ Rooms
 03-30 : temple of kib, sender of life
 
 03-31 : treasure: healing pistol, like radium pistol but heals instead
-        of causing damage.
+        of causing damage. It has 1d12+12 charges, it heals 5d6 hp per
+        hit.
 
 03-32 : sarcophagus of curing
+        Carvings on the side with Kib in the middle. To the left are
+        figures looking like they're lying down. On the other side
+        they are standing.
+
+        On top is a large carving of Kib
 
 03-33 : maze entrance
         anti-magic field inside it
