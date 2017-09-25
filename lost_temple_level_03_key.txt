@@ -277,3 +277,17 @@ Rooms
         At any moment there are d100 undead roaming this area. They
         will be evenly distributed throughout the hall unless an
         event causes them to mass together.
+
+03-44 : 
+
+03-45 : 
+
+03-46 : 
+
+03-47 : 
+
+03-48 : 
+
+03-49 : 
+
+03-50 : 
