@@ -1,0 +1,122 @@
+# undead list 1e
+- dice: 1d100
+  results:
+    1: animal skeleton (1-1 )
+    2: skeleton (1)
+    3: zombie (2)
+    4: ghoul (2)
+    5: shadow (3+3)
+    6: wight (4+3)
+    7: ghast (4)
+    8: wraith (5+3)
+    9: mummy (6+3)
+    10: spectre (7+3)
+    11: vampire (8+3)
+    12: ghost (10)
+    13: lich (11+)
+
+1-20:
+  - dice: 1d20
+    results:
+      1-7  : animal skeleton (1-1 )
+      7-11 : skeleton (1)
+      12-14: zombie (2)
+      15-17: ghoul (2)
+         17: shadow (3+3)
+         18: wight (4+3)
+         19: ghast (4)
+         20: wraith (5+3)
+21-40:
+  - dice: 1d20
+    results:
+      1-4: animal skeleton (1-1 )
+      5-8: skeleton (1)
+      9-13: zombie (2)
+      14-15: ghoul (2)
+      16: shadow (3+3)
+      17: wight (4+3)
+      18: ghast (4)
+      19: wraith (5+3)
+      20: mummy (6+3)
+41-50:
+  - dice: 2d12
+    results:
+      2-4: animal skeleton (1-1 )
+      5-8: skeleton (1)
+      9-12: zombie (2)
+      13-15: ghoul (2)
+      16-18: shadow (3+3)
+      19-20: wight (4+3)
+      21-22: ghast (4)
+      23: wraith (5+3)
+      24: mummy (6+3)
+51-60:
+  - dice: 1d100
+    results:
+      1: animal skeleton (1-1 )
+      2: skeleton (1)
+      3: zombie (2)
+      4: ghoul (2)
+      5: shadow (3+3)
+      6: wight (4+3)
+      7: ghast (4)
+      8: wraith (5+3)
+      9: mummy (6+3)
+61-70:
+  - dice: 1d100
+    results:
+      1: animal skeleton (1-1 )
+      2: skeleton (1)
+      3: zombie (2)
+      4: ghoul (2)
+      5: shadow (3+3)
+      6: wight (4+3)
+      7: ghast (4)
+      8: wraith (5+3)
+      9: mummy (6+3)
+      10: spectre (7+3)
+71-80:
+  - dice: 1d100
+    results:
+      1: animal skeleton (1-1 )
+      2: skeleton (1)
+      3: zombie (2)
+      4: ghoul (2)
+      5: shadow (3+3)
+      6: wight (4+3)
+      7: ghast (4)
+      8: wraith (5+3)
+      9: mummy (6+3)
+      10: spectre (7+3)
+      11: vampire (8+3)
+81-90:
+  - dice: 1d100
+    results:
+      1: animal skeleton (1-1 )
+      2: skeleton (1)
+      3: zombie (2)
+      4: ghoul (2)
+      5: shadow (3+3)
+      6: wight (4+3)
+      7: ghast (4)
+      8: wraith (5+3)
+      9: mummy (6+3)
+      10: spectre (7+3)
+      11: vampire (8+3)
+      12: ghost (10)
+91-100:
+  - dice: 1d100
+    results:
+      1: animal skeleton (1-1 )
+      2: skeleton (1)
+      3: zombie (2)
+      4: ghoul (2)
+      5: shadow (3+3)
+      6: wight (4+3)
+      7: ghast (4)
+      8: wraith (5+3)
+      9: mummy (6+3)
+      10: spectre (7+3)
+      11: vampire (8+3)
+      12: ghost (10)
+      13: lich (11+)
