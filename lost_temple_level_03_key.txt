@@ -370,12 +370,16 @@ Rooms
 
 03-54 : 
 
-03-55 : 
+03-55 : bookshelves full of books. Incantations to summon and trap extraplanar beings.
+        Z
 
 03-56 : 
 
 03-57 : 
 
-03-58 : 
+03-58 : Random teleporter
+        Western Door:
+          Door to this has scratched into it (as if by a knife): High Security Museum
+        Southern Door: scratched into Rally at Mattress Store
 
 03-59 : 
