@@ -111,7 +111,13 @@ Rooms
 03-23 : books of records of births, deaths, arrivals, and departures
         many languages, from many places and times
 
-03-24 : 
+03-24 : there are a 2d8 watches in a display case. same style
+        as the case in 3-40
+
+        20% chance any one of them is magical
+
+        in one game 3 watches
+         - leather bands, metal disc looking
 
 03-A  : Ossuary
 
