@@ -79,6 +79,12 @@ Rooms
         ceiling mirrors the floor, 45' up is a 10' "walk way", then a column up
         temple of hish, silence spell in the entire room cast effectively by a god
 
+        There is treasure in the bottom of the pit. Any taken curse the taker with silence 15'
+        radius. Can't be removed. Only can be cleared by returning the stolen tribute
+        and to give a penance of at least 500gp
+
+        If a tribute is made then a Silence 15' radius spell is put into the person's mind
+
 03-16 : temple of sish
         a -  5 feet high column
         b - 10 feet high column
@@ -92,12 +98,31 @@ Rooms
 
         Spell powers are increased
 
+        Idea from eric and the rest. Maybe have the devices in the secret rooms be 
+        tied to the columns in 03-16. Might have to adjust numbers and such in each.
+        
+        Decided that a magical sundial casts a shadow line that emanates from the 
+        central column effectively.
+        
+
 03-17 : statue, human man
         filled with hour glasses, sun dials,
 
-03-18 : 
+03-18 : there are a 1d4 sundials and 1d4 hourglasses in a display case. same style
+        as the case in 3-40
 
-03-19 : 
+        20% chance any one of them is magical
+
+        in one game there are 3 sundials and 1 hourglass
+
+        sundial #2 is magical 
+
+03-19 : there are a 1d4 slates in a display case. same style
+        as the case in 3-40
+
+        20% chance any one of them is magical
+
+        in one game there are 2 slates, neither is magical
 
 03-20 : slates of dates, events, languages
 
@@ -106,7 +131,13 @@ Rooms
 
         has various mechanical clocks
 
-03-22 : 
+03-22 : there are a 2d8 mechanical clocks in a display case. same style
+        as the case in 3-40
+
+        20% chance any one of them is magical
+
+        in one game there are 5 mechanical clocks
+
 
 03-23 : books of records of births, deaths, arrivals, and departures
         many languages, from many places and times
