@@ -193,6 +193,18 @@ Construction notes:
        Plus the door is wizard locked by the Mad Scientist and
        he regulary changes the passphrase
 
+       5th level Hyperborea party
+
+       Magician
+
+       Berzerker
+
+       Cleric
+
+       Priest
+
+       Fighter
+
 4-16 : holds the non-useful loot from 4-15
 
 4-17 : an invisible chest holds the dearest loot and secrets from
