@@ -195,15 +195,16 @@ Construction notes:
 
        5th level Hyperborea party
 
-       Magician
-
+       Barbarian
+         16/15/18/15/13/14
        Berzerker
-
-       Cleric
-
-       Priest
-
        Fighter
+       Cleric
+       Priest
+       Monk
+       Scout
+       Magician
+         14/17/14/18/12/13
 
 4-16 : holds the non-useful loot from 4-15
 
