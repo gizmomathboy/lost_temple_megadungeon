@@ -196,21 +196,31 @@ Construction notes:
        5th level Hyperborea party
        24k xp?
 
-       Barbarian 5 d12 60hp FA 5 
-         16/15/18/15/13/14
-           master:  grand mastery:
-       Berzerker 5
-         16/13/15/13/13/13
-       Fighter 5
+       Fighter 5 AC 2 35hp FA 5 d10
          18/13/15/14/9/12
-       Cleric 5
+           mastery: bow, long, composite, str(1d6)  grand_mastery: 2 handed sword(3d4)
+           splint +1
+
+       Barbarian 5 d12 57hp FA 5 
+         16/15/18/15/13/14
+           mastery:  mastery:
+
+       Berzerker 5 d12 37hp FA 5
+         16/13/15/13/13/13
+           mastery:  mastery:
+
+       Cleric 5 d8 20 hp FA 3 CA 5 TA 5
          12/11/12/13/15/12
-       Priest 5
-         12/10/12/14/17/16
-       Monk 5
+
+       Monk 5 d8 22hp FA 3
          15/12/16/11/10/13
-       Scout
+
+       Priest 5 d4 16hp FA 2 CA 5 TA 5
+         12/10/12/14/17/16
+
+       Scout 5 d6 22hp FA 3
          14/17/14/14/10/10
+
        Magician 5 d4 20hp FA 2 CA 5
          14/17/14/18/12/13
 
