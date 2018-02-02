@@ -203,11 +203,11 @@ Construction notes:
 
        Barbarian 5 d12 57hp FA 5 
          16/15/18/15/13/14
-           mastery:  mastery:
+           mastery: bastard sword [two handed] (2d6)  mastery: sling
 
        Berzerker 5 d12 37hp FA 5
          16/13/15/13/13/13
-           mastery:  mastery:
+           mastery: two handed sword  mastery: bow, long, composite, str(1d6)
 
        Cleric 5 d8 20 hp FA 3 CA 5 TA 5
          12/11/12/13/15/12
@@ -218,11 +218,18 @@ Construction notes:
        Priest 5 d4 16hp FA 2 CA 5 TA 5
          12/10/12/14/17/16
 
+         2: Dispel Magic
+
        Scout 5 d6 22hp FA 3
          14/17/14/14/10/10
 
        Magician 5 d4 20hp FA 2 CA 5
          14/17/14/18/12/13
+
+         Spells: 4, 3, 2
+         1st:
+         2nd: Web
+         3rd: Fireball
 
 4-16 : holds the non-useful loot from 4-15
 
