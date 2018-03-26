@@ -383,7 +383,11 @@ Rooms
         a monstrous creature with wings, 3 eyes, and 5 fingers and 3 thumbs on each of its 2 hands.
 
         For each item taken (cumulative) there is a 1 in 12 chance an avatar of mana walks out of
-        the mural and attacks the person or persons that took the item.
+        the mural and attacks the person or persons that took the item. The difference between the required
+        roll and the actually roll is the number of avatars to appear. For example, if the roll needed is an
+        8 but a 6 is rolled, 2 avatars appear. Note, if enough rings and eyes are taken at least one avatar
+        will appear. The max roll needed will be a 12, but once that is met 1-11 avatars can appear after
+        that has been reached.
 
         Roll a d6 to figure out where along the wall it appears there are 3 zones one each side. 1,3,5 are
         one the right and 2,4,6 the left.
