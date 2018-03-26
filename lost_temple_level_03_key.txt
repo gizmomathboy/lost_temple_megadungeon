@@ -379,6 +379,21 @@ Rooms
         mural of Mana waking, the world being destroyed, Mana walking away and then
         oblivion
 
+        There are 2 statues on the dais. Each 12' tall. One a perfect human specimen and the other
+        a monstrous creature with wings, 3 eyes, and 5 fingers and 3 thumbs on each of its 2 hands.
+
+        For each item taken (cumulative) there is a 1 in 12 chance an avatar of mana walks out of
+        the mural and attacks the person or persons that took the item.
+
+        Roll a d6 to figure out where along the wall it appears there are 3 zones one each side. 1,3,5 are
+        one the right and 2,4,6 the left.
+
+        The roll dictates the hit points: 10, 20, etc. They attack as 6th level fighters, do open hand 
+        damage as a monk, crit as a fighter, and get as many attacks as number of people engaged with
+        melee with them. They also have a magic resistance of 10 in 20 vs level 9 CA.
+
+        The avatars have no treasure. They do have a soul that can be drank (Thoggy did that to one).
+
 03-46 : 
 
 03-47 : 
