@@ -398,6 +398,9 @@ Rooms
 
         The avatars have no treasure. They do have a soul that can be drank (Thoggy did that to one).
 
+        Eyes are 1d20 x 100 gp diamonds
+        Rings are 100 gp gold
+
 03-46 : 
 
 03-47 : 
