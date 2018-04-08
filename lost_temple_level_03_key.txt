@@ -380,7 +380,7 @@ Rooms
         oblivion
 
         There are 2 statues on the dais. Each 12' tall. One a perfect human specimen and the other
-        a monstrous creature with wings, 3 eyes, and 5 fingers and 3 thumbs on each of its 2 hands.
+        a monstrous creature with wings, 3 eyes, and 5 fingers and 3 thumbs on each of its hands on 2 arms.
 
         For each item taken (cumulative) there is a 1 in 12 chance an avatar of mana walks out of
         the mural and attacks the person or persons that took the item. The difference between the required
