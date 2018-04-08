@@ -393,7 +393,7 @@ Rooms
         one the right and 2,4,6 the left.
 
         The roll dictates the hit points: 10, 20, etc. They attack as 6th level fighters, do open hand 
-        damage as a monk, crit as a fighter, and get as many attacks as number of people engaged with
+        damage as a 9th level monk, crit as a fighter, and get as many attacks as number of people engaged with
         melee with them. They also have a magic resistance of 10 in 20 vs level 9 CA.
 
         The avatars have no treasure. They do have a soul that can be drank (Thoggy did that to one).
