@@ -435,9 +435,9 @@ Rooms
 03-55 : bookshelves full of books. Incantations to summon and trap extraplanar beings.
         Z
 
-03-56 : 
+03-56 : scribing room
 
-03-57 : 
+03-57 : more books
 
 03-58 : Random teleporter
         Western Door:
