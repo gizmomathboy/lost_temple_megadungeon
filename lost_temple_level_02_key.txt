@@ -11,6 +11,12 @@
      3 vrocks
       HD: 8, HP 38, 44, 34
       AC: 0 DMG d4/d4/d8/d8/d6 MR 50%
+
+   hyperborea
+     3 Daemon, greater, type 1
+      HD: 8, HP 38, 44, 34
+      AC: 0 DMG d4/d4/d4/d4/d6 (clawx4, bite) MR 7:12 against CA 12
+
       Treasure:
         2,500 cp
         2,500 ep
@@ -26,6 +32,7 @@
         Studded +2
         Large Shield +1
         treasure has a black penrose tile
+
    ASSH
      3 Class 1 Daemons
       HD: 8, HP 38, 44, 34
