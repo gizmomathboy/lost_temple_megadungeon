@@ -179,6 +179,7 @@
 15-goblin watchers of room 14, secret rooms lead to
    viewing areas. Door into room is barred and has a spy hole
 16-human bandits
+     8 
    See Dungeon Mod A
 17-lots of loot
 18-orcs, in cahoots with group watching access to this level. Allied tribe
@@ -186,6 +187,20 @@
 20-orcs
 21-temple, columns hide temple relics, dais has god
    written on doors, "evil, don't enter"
+
+   AS&SH
+     Statue of Thaumagorga
+
+     First statue on the left as you enter the room has a relic of a
+     flaming sword
+
+     Third column on the left, razor used in bloodletting
+
+     Third column on the right, copper bowl 2 foot wide, 8 inches deep
+     convex. Reddish brown stain on the interior (old blood).
+
+     Last column on the left. Set of manacles with spikes on the interior
+
    locke casts wizard lock on door, 11th level MU
    See Dungeon Mod A
 22-food storage for bandits and goblins
