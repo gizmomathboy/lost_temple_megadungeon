@@ -210,8 +210,11 @@
   ( 2,100 gp of gems )
 
 18-orcs, in cahoots with group watching access to this level. Allied tribe
+     5
 19-orcs
+     5 HD 1, HP 8
 20-orcs
+     5
 21-temple, columns hide temple relics, dais has god
    written on doors, "evil, don't enter"
 
